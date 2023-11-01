@@ -2,8 +2,8 @@
 site: sandpaper::sandpaper_site
 ---
 
-This is a new lesson built with [The Carpentries Workbench][workbench]. 
+Welcome to the Storytelling for Heritage Interpretation lesson.
 
-
-[workbench]: https://carpentries.github.io/sandpaper-docs
-
+This lesson offers an 
+introduction to storytelling techniques
+in general, and tools for the heritage domain.
