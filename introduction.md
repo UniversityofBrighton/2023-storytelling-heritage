@@ -1,0 +1,72 @@
+---
+title: 'Storytelling'
+teaching: 10
+exercises: 2
+---
+
+## Storytelling as human condition
+> "Humans are natural storytellers. It has been THE FORM of passing on knowledge from generation to generation. Storytelling existed in some shape or form in all civilizations across time..."
+
+[https://langwitches.org/blog/2015/08/18/digital-storytelling-what-it-is-and-what-it-is-not/](https://langwitches.org/blog/2015/08/18/digital-storytelling-what-it-is-and-what-it-is-not/)
+
+>Storytelling "is not just entertainment. Telling stories is a fundamental part of being human".
+[https://www.cbc.ca/news/canada/newfoundland-labrador/storytelling-is-human-1.5511027](https://www.cbc.ca/news/canada/newfoundland-labrador/storytelling-is-human-1.5511027 ) 
+
+
+## What is storytelling.
+
+"Storytelling is the social and cultural activity of sharing stories, sometimes with improvisation, theatrics or embellishment.
+Every culture has its own stories or narratives, which are shared as a means of entertainment, education, cultural preservation or instilling moral values."
+[https://www.beyondintractability.org/essay/narratives](https://www.beyondintractability.org/essay/narratives) 
+
+Fig. 4 - Elderly people sitting outdoors around a campfire - senior citizens on a picnic warming themselves by the fire on an autumn night. by Carlo under Education License from Adobe Stock
+
+## Which is the use of storytelling.
+
+Storytelling can be used as a tool for different purposes; however, it goes beyond a simple planned activity to become part of our individual and collective life experience. The uses of storytelling are in fact limitless. 
+ 
+Fig. 5 Self-produced graphic from worldcloud https://www.wordclouds.co.uk/ 
+
+## From analogue to digital
+
+"...Digital Storytelling, has opened up new horizons, inconceivable without the use of technology. Storytelling is evolving, as humans are adapting, experimenting and innovating with the use of ever-changing technology, the growth of human networks and our ability to imagine new paths."
+
+[https://langwitches.org/blog/2015/08/18/digital-storytelling-what-it-is-and-what-it-is-not/](https://langwitches.org/blog/2015/08/18/digital-storytelling-what-it-is-and-what-it-is-not/)
+ 
+Fig. 6 - Animator creates sketches for the cartoon. Works on the storyboard. Comics Compilation. Storyboard movie layout for pre-production. Creative artwork. Home based set up. By Framestock under Education License from Adobe Stock
+
+## What is (interactive) digital storytelling?
+
+A definition for Digital Storytelling
+
+> "...the practice of using computer-based tools to create short stories that can be shared online."
+
+[https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118978238.ieml0056](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118978238.ieml0056)
+
+**also**
+
+It is *NOT* about creating media... it is about creating meaning.
+[https://langwitches.org/blog/2015/08/18/digital-storytelling-what-it-is-and-what-it-is-not/](https://langwitches.org/blog/2015/08/18/digital-storytelling-what-it-is-and-what-it-is-not/)
+
+It is *NOT* only (just) about telling a story... it is about contributing and collaborating with others
+
+[https://langwitches.org/blog/2015/08/18/digital-storytelling-what-it-is-and-what-it-is-not/](https://langwitches.org/blog/2015/08/18/digital-storytelling-what-it-is-and-what-it-is-not/)
+
+### The Basic steps of Digital Storytelling 
+
+Samantha Morra proposes a storytelling cycle
+
+ 
+Fig. 7 – Basic steps of digital storytelling graph by Samantha Morra, CC BY-NC-SA https://samanthamorra.com/2013/06/05/edudemic-article-on-digital-storytelling/  
+
+
+## Narrative vs Storytelling
+"The term "storytelling" can refer specifically to oral storytelling but also broadly to techniques used in other media to unfold or disclose the narrative of a story."
+[https://en.wikipedia.org/wiki/Storytelling](https://en.wikipedia.org/wiki/Storytelling) 
+
+"...the recent decades of this century have seen a tremendous development of diverse theories of narrative, so many and so diverse that it makes the mind ache to think of them all."
+
+Miller, J.H., 1990. "Narrative". In Lentricchia, F. & McLaughlin, T. eds., Critical Terms for Literary Study. Chicago, Illinois: The University of Chicago Press, pp. 66- 79.
+
+In 2018, the Association for Research in Digital Interactive Narratives (ARDIN) was formed. [ARDIN](https://ardin.online/) supports research into Interactive Digital Narratives (IDN). ICIDS is the main academic conference of ARDIN
+
