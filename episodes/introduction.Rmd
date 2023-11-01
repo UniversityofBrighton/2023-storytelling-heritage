@@ -1,111 +1,72 @@
 ---
-title: 'introduction'
+title: 'Storytelling'
 teaching: 10
 exercises: 2
 ---
 
-:::::::::::::::::::::::::::::::::::::: questions 
+## Storytelling as human condition
+> "Humans are natural storytellers. It has been THE FORM of passing on knowledge from generation to generation. Storytelling existed in some shape or form in all civilizations across time..."
 
-- How do you write a lesson using R Markdown and `{sandpaper}`?
+[https://langwitches.org/blog/2015/08/18/digital-storytelling-what-it-is-and-what-it-is-not/](https://langwitches.org/blog/2015/08/18/digital-storytelling-what-it-is-and-what-it-is-not/)
 
-::::::::::::::::::::::::::::::::::::::::::::::::
+>Storytelling "is not just entertainment. Telling stories is a fundamental part of being human".
+[https://www.cbc.ca/news/canada/newfoundland-labrador/storytelling-is-human-1.5511027](https://www.cbc.ca/news/canada/newfoundland-labrador/storytelling-is-human-1.5511027 ) 
 
-::::::::::::::::::::::::::::::::::::: objectives
 
-- Explain how to use markdown with the new lesson template
-- Demonstrate how to include pieces of code, figures, and nested challenge blocks
+## What is storytelling.
 
-::::::::::::::::::::::::::::::::::::::::::::::::
+"Storytelling is the social and cultural activity of sharing stories, sometimes with improvisation, theatrics or embellishment.
+Every culture has its own stories or narratives, which are shared as a means of entertainment, education, cultural preservation or instilling moral values."
+[https://www.beyondintractability.org/essay/narratives](https://www.beyondintractability.org/essay/narratives) 
 
-## Introduction
+Fig. 4 - Elderly people sitting outdoors around a campfire - senior citizens on a picnic warming themselves by the fire on an autumn night. by Carlo under Education License from Adobe Stock
 
-This is a lesson created via The Carpentries Workbench. It is written in
-[Pandoc-flavored Markdown][pandoc] for static files (with extension `.md`) and
-[R Markdown][r-markdown] for dynamic files that can render code into output
-(with extension `.Rmd`). Please refer to the [Introduction to The Carpentries
-Workbench][carpentries-workbench] for full documentation.
+## Which is the use of storytelling.
 
-What you need to know is that there are three sections required for a valid
-Carpentries lesson template:
-
- 1. `questions` are displayed at the beginning of the episode to prime the
-    learner for the content.
- 2. `objectives` are the learning objectives for an episode displayed with
-    the questions.
- 3. `keypoints` are displayed at the end of the episode to reinforce the
-    objectives.
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
-
-Inline instructor notes can help inform instructors of timing challenges
-associated with the lessons. They appear in the "Instructor View"
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-::::::::::::::::::::::::::::::::::::: challenge 
-
-## Challenge 1: Can you do it?
-
-What is the output of this command?
-
-```r
-paste("This", "new", "lesson", "looks", "good")
-```
-
-:::::::::::::::::::::::: solution 
-
-## Output
+Storytelling can be used as a tool for different purposes; however, it goes beyond a simple planned activity to become part of our individual and collective life experience. The uses of storytelling are in fact limitless. 
  
-```output
-[1] "This new lesson looks good"
-```
+Fig. 5 Self-produced graphic from worldcloud https://www.wordclouds.co.uk/ 
 
-:::::::::::::::::::::::::::::::::
+## From analogue to digital
+
+"...Digital Storytelling, has opened up new horizons, inconceivable without the use of technology. Storytelling is evolving, as humans are adapting, experimenting and innovating with the use of ever-changing technology, the growth of human networks and our ability to imagine new paths."
+
+[https://langwitches.org/blog/2015/08/18/digital-storytelling-what-it-is-and-what-it-is-not/](https://langwitches.org/blog/2015/08/18/digital-storytelling-what-it-is-and-what-it-is-not/)
+ 
+Fig. 6 - Animator creates sketches for the cartoon. Works on the storyboard. Comics Compilation. Storyboard movie layout for pre-production. Creative artwork. Home based set up. By Framestock under Education License from Adobe Stock
+
+## What is (interactive) digital storytelling?
+
+A definition for Digital Storytelling
+
+> "...the practice of using computer-based tools to create short stories that can be shared online."
+
+[https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118978238.ieml0056](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118978238.ieml0056)
+
+**also**
+
+It is *NOT* about creating media... it is about creating meaning.
+[https://langwitches.org/blog/2015/08/18/digital-storytelling-what-it-is-and-what-it-is-not/](https://langwitches.org/blog/2015/08/18/digital-storytelling-what-it-is-and-what-it-is-not/)
+
+It is *NOT* only (just) about telling a story... it is about contributing and collaborating with others
+
+[https://langwitches.org/blog/2015/08/18/digital-storytelling-what-it-is-and-what-it-is-not/](https://langwitches.org/blog/2015/08/18/digital-storytelling-what-it-is-and-what-it-is-not/)
+
+### The Basic steps of Digital Storytelling 
+
+Samantha Morra proposes a storytelling cycle
+
+ 
+Fig. 7 – Basic steps of digital storytelling graph by Samantha Morra, CC BY-NC-SA https://samanthamorra.com/2013/06/05/edudemic-article-on-digital-storytelling/  
 
 
-## Challenge 2: how do you nest solutions within challenge blocks?
+## Narrative vs Storytelling
+"The term "storytelling" can refer specifically to oral storytelling but also broadly to techniques used in other media to unfold or disclose the narrative of a story."
+[https://en.wikipedia.org/wiki/Storytelling](https://en.wikipedia.org/wiki/Storytelling) 
 
-:::::::::::::::::::::::: solution 
+"...the recent decades of this century have seen a tremendous development of diverse theories of narrative, so many and so diverse that it makes the mind ache to think of them all."
 
-You can add a line with at least three colons and a `solution` tag.
+Miller, J.H., 1990. "Narrative". In Lentricchia, F. & McLaughlin, T. eds., Critical Terms for Literary Study. Chicago, Illinois: The University of Chicago Press, pp. 66- 79.
 
-:::::::::::::::::::::::::::::::::
-::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Figures
-
-You can include figures generated from R Markdown:
-
-```{r pyramid, fig.alt = "pie chart illusion of a pyramid", fig.cap = "Sun arise each and every morning"}
-pie(
-  c(Sky = 78, "Sunny side of pyramid" = 17, "Shady side of pyramid" = 5), 
-  init.angle = 315, 
-  col = c("deepskyblue", "yellow", "yellow3"), 
-  border = FALSE
-)
-```
-Or you can use pandoc markdown for static figures with the following syntax:
-
-`![optional caption that appears below the figure](figure url){alt='alt text for
-accessibility purposes'}`
-
-![You belong in The Carpentries!](https://raw.githubusercontent.com/carpentries/logo/master/Badge_Carpentries.svg){alt='Blue Carpentries hex person logo with no text.'}
-
-## Math
-
-One of our episodes contains $\LaTeX$ equations when describing how to create
-dynamic reports with {knitr}, so we now use mathjax to describe this:
-
-`$\alpha = \dfrac{1}{(1 - \beta)^2}$` becomes: $\alpha = \dfrac{1}{(1 - \beta)^2}$
-
-Cool, right?
-
-::::::::::::::::::::::::::::::::::::: keypoints 
-
-- Use `.md` files for episodes when you want static content
-- Use `.Rmd` files for episodes when you need to generate output
-- Run `sandpaper::check_lesson()` to identify any issues with your lesson
-- Run `sandpaper::build_lesson()` to preview your lesson locally
-
-::::::::::::::::::::::::::::::::::::::::::::::::
+In 2018, the Association for Research in Digital Interactive Narratives (ARDIN) was formed. [ARDIN](https://ardin.online/) supports research into Interactive Digital Narratives (IDN). ICIDS is the main academic conference of ARDIN
 
