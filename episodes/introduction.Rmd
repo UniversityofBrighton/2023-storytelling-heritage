@@ -26,7 +26,7 @@ Every culture has its own stories or narratives, which are shared as a means of 
 
 ![Elderly people sitting outdoors around a campfire - senior citizens on a picnic warming themselves by the fire on an autumn night &copy; Carlo from AdobeStock](fig/Fig_04_AdobeStock_461032749.jpeg){alt='campfire'}
 
-## Which is the use of storytelling.
+## What is the use of storytelling.
 
 Storytelling can be used as a tool for different purposes; however, it goes beyond a simple planned activity to become part of our individual and collective life experience. The uses of storytelling are in fact limitless. 
 
