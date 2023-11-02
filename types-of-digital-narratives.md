@@ -51,25 +51,26 @@ E-Books, Films, Documentaries
 
 - The user is not able to choose how to proceed.
 
-- Must follow all the events in the narrative but with the presence of *flash-backs and/or flash-forwards*.
+- Must follow all the events in the narrative but with the presence of **flash-backs and/or flash-forwards**.
 
-- Sometimes these experiences need to be repeated to understand the plot, like for example the film [Memento.](https://en.wikipedia.org/wiki/Memento_(film)){target="_blank" rel="noopener"}{alt='memento'}
+- Sometimes these experiences need to be repeated to understand the plot, like for example the film [Memento.](https://en.wikipedia.org/wiki/Memento_(film)){target="_blank" rel="noopener"}
  
 ![by Diseñadores publicitarios from Wikimedia](fig/Fig_14_Memento.png){alt=''}
 
 
 ### Linear Stories (Interactive)
+E-Books, Websites, Interactive Graphic Novels
+
 
 ![Linear Stories (Interactive) Graph](fig/Fig_15_self_produced_graph.png){alt='graph'}
 
-
 The user is not able to choose the direction of the narrative but can interact with the contents. Can skip contents within the narrative.
-
 
 ![&copy; robu_s from AdobeStock](fig/Fig_16_AdobeStock_248815987.jpeg){alt=''}
 
 
 ## Non-Linear Stories (Interactive)
+Intercative Films, Videogames, Applications, 360 interactive experiences.
 
 ![Non-Linear Stories (Interactive) Graph](fig/Fig_17_self_produced_graph.png){alt='graph'}
 
