@@ -165,16 +165,17 @@ How the 6 principles from Tilden fits into storytelling in heritage context.
 ![Tilden principles into storytelling](fig/Fig_29_self_produced_graph.png){alt=''}
 
 ## Digital Storytelling in Heritage Interpretation.
+Digital Storytelling in Heritage context can be quite challenging however the rules for good results can be driven from the previous domain of digital storytelling.
 
 7 Tips on Digital Storytelling given by [Europeana](https://www.europeana.eu/en){target="_blank" rel="noopener"}
 
-1. Be Personal
-2. Be informal but expert
-3. Tell hidden stories
-4. Illustrate your points
-5. Signpost your journey
-6. Be specific
-7. Be evocative
+> 1. Be Personal
+> 2. Be informal but expert
+> 3. Tell hidden stories
+> 4. Illustrate your points
+> 5. Signpost your journey
+> 6. Be specific
+> 7. Be evocative
 
 ![Seven tips for digital storytelling with cultural heritage &copy; Maggy Szynkielewska, 2020 from https://pro.europeana.eu/page/seven-tips-for-digital-storytelling](fig/FIg_30_7TipsForDigitalStorytelling4.jpeg){alt=''}
 
