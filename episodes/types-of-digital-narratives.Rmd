@@ -29,12 +29,10 @@ Must follow all the events in line with the given narrative.
 
 The only possible interaction is play/pause/stop.
 
-2
+
+
 ![Linear Stories (Non-Interactive) Graph](fig/Fig_09_self_produced_graph.png){alt='graph' max-height=20px}
 
-The user is not able to make the choice on how to proceed.
-
-Must follow all the events in line with the given narrative.
 
 ![eBooks can now be read on a large variety of devices &copy; Per Palmkvist Knudsen from Wikimedia](fig/Fig_10_EReading_devices.jpg){alt='ebooks'}
 
