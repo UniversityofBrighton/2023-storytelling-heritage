@@ -101,6 +101,7 @@ Samantha Morra proposes a storytelling cycle
 
 ## Narrative vs Storytelling
 "Narrative" and "Storytelling" are not two interchangable terms. While the term "narrative" usually relate to the part of the story that deal with its style and structure, the term "storytelling" involves not only the act of telling the story but also the relationship with the audience, the enviroment, the content and much more...
+
 > "The term "storytelling" can refer specifically to oral storytelling but also broadly to techniques used in other media to unfold or disclose the narrative of a story."
 >
 - [https://en.wikipedia.org/wiki/Storytelling](https://en.wikipedia.org/wiki/Storytelling){target="_blank" rel="noopener"}
@@ -109,5 +110,5 @@ Samantha Morra proposes a storytelling cycle
 >
 - Miller, J.H., 1990. "Narrative". In Lentricchia, F. & McLaughlin, T. eds., Critical Terms for Literary Study. Chicago, Illinois: The University of Chicago Press, pp. 66- 79.
 
-In 2018, the Association for Research in Digital Interactive Narratives (ARDIN) was formed. [ARDIN](https://ardin.online/) supports research into Interactive Digital Narratives (IDN). **ICIDS (International Conference on Interactive Digital Storytelling)** is the main academic conference of ARDIN
+In 2018, the Association for Research in Digital Interactive Narratives (ARDIN) was formed. [ARDIN](https://ardin.online/){target="_blank" rel="noopener"} supports research into Interactive Digital Narratives (IDN). **ICIDS (International Conference on Interactive Digital Storytelling)** is the main academic conference of ARDIN
 
