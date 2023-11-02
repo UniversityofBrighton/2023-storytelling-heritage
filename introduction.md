@@ -4,8 +4,13 @@ teaching: 10
 exercises: 2
 ---
 
+![Storytelling domains](fig/Fig_01_self_produced_graph.png){alt=''}
+
 ## Storytelling as human condition
 > "Humans are natural storytellers. It has been THE FORM of passing on knowledge from generation to generation. Storytelling existed in some shape or form in all civilizations across time..."
+
+![US Embassy from New Zealand, Public domain by US Embassy New Zealand from Wikimedia Commons https://commons.wikimedia.org/wiki/File:Storytelling_(29663292122).jpg ](fig/Fig_02_Storytelling_(29663292122).jpg){alt=''}
+
 
 [https://langwitches.org/blog/2015/08/18/digital-storytelling-what-it-is-and-what-it-is-not/](https://langwitches.org/blog/2015/08/18/digital-storytelling-what-it-is-and-what-it-is-not/)
 
@@ -19,13 +24,14 @@ exercises: 2
 Every culture has its own stories or narratives, which are shared as a means of entertainment, education, cultural preservation or instilling moral values."
 [https://www.beyondintractability.org/essay/narratives](https://www.beyondintractability.org/essay/narratives) 
 
-Fig. 4 - Elderly people sitting outdoors around a campfire - senior citizens on a picnic warming themselves by the fire on an autumn night. by Carlo under Education License from Adobe Stock
+![Elderly people sitting outdoors around a campfire - senior citizens on a picnic warming themselves by the fire on an autumn night &copy; Carlo from AdobeStock](fig/Fig_04_AdobeStock_461032749.jpeg){alt='campfire'}
 
 ## Which is the use of storytelling.
 
 Storytelling can be used as a tool for different purposes; however, it goes beyond a simple planned activity to become part of our individual and collective life experience. The uses of storytelling are in fact limitless. 
- 
-Fig. 5 Self-produced graphic from worldcloud https://www.wordclouds.co.uk/ 
+
+![](fig/Fig_05_wordcloud.PNG){alt='words'}
+
 
 ## From analogue to digital
 
@@ -33,7 +39,7 @@ Fig. 5 Self-produced graphic from worldcloud https://www.wordclouds.co.uk/
 
 [https://langwitches.org/blog/2015/08/18/digital-storytelling-what-it-is-and-what-it-is-not/](https://langwitches.org/blog/2015/08/18/digital-storytelling-what-it-is-and-what-it-is-not/)
  
-Fig. 6 - Animator creates sketches for the cartoon. Works on the storyboard. Comics Compilation. Storyboard movie layout for pre-production. Creative artwork. Home based set up. By Framestock under Education License from Adobe Stock
+![&copy; Framestock from AdobeStock](fig/FIg_06_AdobeStock_535693047.jpeg){alt=''}
 
 ## What is (interactive) digital storytelling?
 
@@ -56,8 +62,7 @@ It is *NOT* only (just) about telling a story... it is about contributing and co
 
 Samantha Morra proposes a storytelling cycle
 
- 
-Fig. 7 – Basic steps of digital storytelling graph by Samantha Morra, CC BY-NC-SA https://samanthamorra.com/2013/06/05/edudemic-article-on-digital-storytelling/  
+![Basic steps of digital storytelling graph by Samantha Morra, CC BY-NC-SA https://samanthamorra.com/2013/06/05/edudemic-article-on-digital-storytelling/  ](fig/Fig_07_DigstoryProcess.png){alt='cyclce'}
 
 
 ## Narrative vs Storytelling
