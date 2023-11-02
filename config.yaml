@@ -61,6 +61,7 @@ contact: 'K.Rodriguez@brighton.ac.uk'
 episodes:
 - introduction.Rmd
 - types-of-digital-narratives.Rmd
+- tools-for-storytelling.Rmd
 - project-examples.Rmd
 
 # Information for Learners
