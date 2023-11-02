@@ -104,7 +104,7 @@ Usually, they have a well-defined beginning but can branch in different directio
  
 ### Branch stories
 
-![Branch stories graph](fig/Fig_22_self_produced_graph.png){alt='graph'}
+![Branch stories graph](fig/Fig_23_self_produced_graph.png){alt='graph'}
 
 
 These types of stories branch in different directions but usually the have one ending, the user can make decision along the narrative.
