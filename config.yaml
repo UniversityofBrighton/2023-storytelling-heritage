@@ -17,7 +17,7 @@ title: 'Storytelling for Heritage Interpretation'
 created: '2023-11-01'
 
 # Comma-separated list of keywords for the lesson
-keywords: storytelling, multidimensional data, heritage interpretation, lesson, The Carpentries'
+keywords: storytelling, multidimensional data, heritage interpretation, lesson, The Carpentries
 
 # Life cycle stage of the lesson
 # possible values: pre-alpha, alpha, beta, stable
@@ -61,6 +61,7 @@ contact: 'K.Rodriguez@brighton.ac.uk'
 episodes:
 - introduction.Rmd
 - types-of-digital-narratives.Rmd
+- project-examples.Rmd
 
 # Information for Learners
 learners:
