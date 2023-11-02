@@ -26,11 +26,11 @@ E-Books, Films, Documentaries, Oral stories (Audio Podcast etc...)
 
 ![Linear Stories (Non-Interactive) Graph](fig/Fig_09_self_produced_graph.png){alt='graph' max-height=20px}
 
-The user is not able to make the choice on how to proceed.
+- The user is not able to make the choice on how to proceed.
 
-Must follow all the events in line with the given narrative.
+- Must follow all the events in line with the given narrative.
 
-The only possible interaction is play/pause/stop.
+- The only possible interaction is play/pause/stop.
 
 
 
