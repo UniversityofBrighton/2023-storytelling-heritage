@@ -89,6 +89,7 @@ Samantha Morra proposes a storytelling cycle
 
 
 ## Narrative vs Storytelling
+Narrative and Storyteling are not two interchangable terms. While the narrative relate to the part of the story that deal with its style and structure, the term storytelling involves not only the act of telling the story but also the relationship with the audience the enviroment, the content and much more...
 > "The term "storytelling" can refer specifically to oral storytelling but also broadly to techniques used in other media to unfold or disclose the narrative of a story."
 >
 - [https://en.wikipedia.org/wiki/Storytelling](https://en.wikipedia.org/wiki/Storytelling){target="_blank" rel="noopener"}
