@@ -104,11 +104,11 @@ Usually, they have a well-defined beginning but can branch in different directio
 
  
 ### Branch stories
+These types of stories branch in different directions but usually the have one ending, the user can make decision along the narrative.
 
 ![Branch stories graph](fig/Fig_23_self_produced_graph.png){alt='graph'}
 
 
-These types of stories branch in different directions but usually the have one ending, the user can make decision along the narrative.
 > "The entire Dragon Age series offers you multiple occasions where they have to make a decision; these choices can be small and change next to nothing, or they can be large plot points that go on to echo in the rest of the sequels."
 >
 - Hinton C. (2023). 15 Great Games With Branching Decision-Based Stories. The Gamer. [https://www.thegamer.com/games-witch-branching-stories/#dragon-age-inquisition](https://www.thegamer.com/games-witch-branching-stories/#dragon-age-inquisition){target="_blank" rel="noopener"} accessed 2-11-2023 
@@ -117,11 +117,11 @@ These types of stories branch in different directions but usually the have one e
 
  
 ### Open ended stories
-
+Can be all the above combined without a specific or well-defined ending. Sometime used in films for sequels.
 ![Open ended stories graph](fig/FIg_24_assas.png){alt='graph'}
 
 
-Can be all the above combined without a specific or well-defined ending. Sometime used in films for sequels.
+
 
 ![Screenshot of Assassin’s Creed &copy; Gary Ullah from Wikimedia](fig/Fig_25_Ely_cathedral_(12859673264).jpg){alt='creed'}
 
@@ -134,7 +134,7 @@ This type of stories permit the user to roam free around an established environm
 > "People sometimes think "open-world" means an absence of narrative, just complete freedom of choice. But that’s not necessarily the case. In fact, it rarely is."
 >
 - People sometimes think “open-world” means an absence of narrative, just complete freedom of choice. But that’s not necessarily the case. In fact, it rarely is.
-[https://blooloop.com/theme-park/opinion/interactive-storytelling-part-2-roots/#:~:text=People%20sometimes%20think%20%E2%80%9Copen%2Dworld,be%20placed%20(or%20not.)](https://blooloop.com/theme-park/opinion/interactive-storytelling-part-2-roots/#:~:text=People%20sometimes%20think%20%E2%80%9Copen%2Dworld,be%20placed%20(or%20not.)){target="_blank" rel="noopener"}
+> [https://blooloop.com/theme-park/opinion/interactive-storytelling-part-2-roots/#:~:text=People%20sometimes%20think%20%E2%80%9Copen%2Dworld,be%20placed%20(or%20not.)](https://blooloop.com/theme-park/opinion/interactive-storytelling-part-2-roots/#:~:text=People%20sometimes%20think%20%E2%80%9Copen%2Dworld,be%20placed%20(or%20not.)){target="_blank" rel="noopener"}
 Examples:
 
 - [Avalon RPG Game] (https://www.avalon-rpg.com/){target="_blank" rel="noopener"}
