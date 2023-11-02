@@ -17,14 +17,14 @@ exercises: 2
     -	more...
  
  
-![Narrative as Virtual Reality 2: Revisiting Immersion and Interactivity in Literature by Ryan, Marie-Laure. Via annemarleen.gitbook.io https://annemarleen.gitbook.io/immersive-design/class-0-2/class-1]{target="_blank" rel="noopener"}(fig/Fig_08_1_oVa370S_18kQYYwT-e6Eow.jpg){alt='narratives'}
+![Narrative as Virtual Reality 2: Revisiting Immersion and Interactivity in Literature by Ryan, Marie-Laure. Via annemarleen.gitbook.io https://annemarleen.gitbook.io/immersive-design/class-0-2/class-1](fig/Fig_08_1_oVa370S_18kQYYwT-e6Eow.jpg){alt='narratives'}
 
 
 ### Traditional Linear Stories (Non-Interactive)
 E-Books, Films, Documentaries, Oral stories (Audio Podcast etc...)
 
 
-![Linear Stories (Non-Interactive) Graph](fig/Fig_09_self_produced_graph.png){alt='graph' max-height=20px}
+![Linear Stories (Non-Interactive) Graph](fig/Fig_09_self_produced_graph.png){alt='graph'}
 
 - The user is not able to make the choice on how to proceed.
 
@@ -39,6 +39,7 @@ E-Books, Films, Documentaries, Oral stories (Audio Podcast etc...)
  
 ![Poster for the 1960 film The Time Machine by Reynold Brown from Wikimedia](fig/FIg_11_Poster_for_the_1960_film_The_Time_Machine.jpg){alt='time machine'}
 
+
 ![Audio files](fig/Fig_12_audiograph.png){alt='audio'}
 
 
@@ -48,11 +49,11 @@ E-Books, Films, Documentaries
 ![Non-Linear Stories (Non-Interactive) Graph](fig/FIg_13_self_produced_graph.png){alt='graph'}
 
 
-The user is not able to choose how to proceed.
+- The user is not able to choose how to proceed.
 
-Must follow all the events in the narrative but with the presence of flash-backs and/or flash-forwards.
+- Must follow all the events in the narrative but with the presence of flash-backs and/or flash-forwards.
 
-Sometimes these experiences need to be repeated to understand the plot.
+- Sometimes these experiences need to be repeated to understand the plot, like for example the film Memento.(https://en.wikipedia.org/wiki/Memento_(film)){target="_blank" rel="noopener"}{alt='memento'}
  
 ![by Diseñadores publicitarios from Wikimedia](fig/Fig_14_Memento.png){alt=''}
 
