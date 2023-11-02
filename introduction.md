@@ -26,12 +26,12 @@ exercises: 2
 As humans that we communicate with stories. When we use the a narrative structure to communicate concepts we connect with our audience not only on a presentation level but also on intimate an personal level, because the audience can bond with the caracthers, the objects or the environments of the story.
 
 > "Humans are natural storytellers. It has been THE FORM of passing on knowledge from generation to generation. Storytelling existed in some shape or form in all civilizations across time..."
-
+>
 - Tolisano, S.R. (2018). Digital Storytelling: What it is… And… What it is NOT. Langwitches.[https://langwitches.org/blog/2015/08/18/digital-storytelling-what-it-is-and-what-it-is-not/](https://langwitches.org/blog/2015/08/18/digital-storytelling-what-it-is-and-what-it-is-not/){target="_blank" rel="noopener"}
 
 
 > Storytelling "is not just entertainment. Telling stories is a fundamental part of being human".
-
+>
 - Hennebury, C. (2020). Storytelling is not just entertainment. It's a fundamental part of being human. For CBC.[https://www.cbc.ca/news/canada/newfoundland-labrador/storytelling-is-human-1.5511027](https://www.cbc.ca/news/canada/newfoundland-labrador/storytelling-is-human-1.5511027 ){target="_blank" rel="noopener"}
 
 
