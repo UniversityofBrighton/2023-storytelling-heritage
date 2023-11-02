@@ -23,15 +23,15 @@ exercises: 2
 ### Traditional Linear Stories (Non-Interactive)
 E-Books, Films, Documentaries, Oral stories (Audio Podcast etc...)
 
+
+![Linear Stories (Non-Interactive) Graph](fig/Fig_09_self_produced_graph.png){alt='graph' max-height=20px}
+
 The user is not able to make the choice on how to proceed.
 
 Must follow all the events in line with the given narrative.
 
 The only possible interaction is play/pause/stop.
 
-
-
-![Linear Stories (Non-Interactive) Graph](fig/Fig_09_self_produced_graph.png){alt='graph' max-height=20px}
 
 
 ![eBooks can now be read on a large variety of devices &copy; Per Palmkvist Knudsen from Wikimedia](fig/Fig_10_EReading_devices.jpg){alt='ebooks'}
