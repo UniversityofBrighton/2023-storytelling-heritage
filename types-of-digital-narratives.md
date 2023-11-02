@@ -96,7 +96,7 @@ Usually, they have a well-defined beginning but can branch in different directio
 
 > "Some games in the **Final Fantasy** series have multiple or secret endings, the ending depending on the player's actions taken during the game. These can be as simple as minor adjustments to the final story scenes to reflect variable outcomes earlier in the game, or as drastic as entirely different conclusions to the story"
 >
-- [https://finalfantasy.fandom.com/wiki/Multiple_endings](https://finalfantasy.fandom.com/wiki/Multiple_endings)
+- Fandom. Final Fantasy Wiky. Multiple endings. [https://finalfantasy.fandom.com/wiki/Multiple_endings](https://finalfantasy.fandom.com/wiki/Multiple_endings) accessed 2-11-2023 
 
 
 ![by Hautala and David Levy from Wikimedia](fig/Fig_21_Final_Fantasy_wordmark_TFA.png){alt='final fantasy'}
@@ -108,10 +108,9 @@ Usually, they have a well-defined beginning but can branch in different directio
 
 
 These types of stories branch in different directions but usually the have one ending, the user can make decision along the narrative.
-
-The entire Dragon Age series offers you multiple occasions where they have to make a decision; these choices can be small and change next to nothing, or they can be large plot points that go on to echo in the rest of the sequels.
-
-[https://www.thegamer.com/games-witch-branching-stories/#dragon-age-inquisition](https://www.thegamer.com/games-witch-branching-stories/#dragon-age-inquisition) 
+> "The entire Dragon Age series offers you multiple occasions where they have to make a decision; these choices can be small and change next to nothing, or they can be large plot points that go on to echo in the rest of the sequels."
+>
+- Hinton C. (2023). 15 Great Games With Branching Decision-Based Stories. The Gamer. [https://www.thegamer.com/games-witch-branching-stories/#dragon-age-inquisition](https://www.thegamer.com/games-witch-branching-stories/#dragon-age-inquisition) accessed 2-11-2023 
 
 ![&copy; greyloch from Wikimedia](fig/Fig_23_Dragon_Age_trio_(22660497598).jpg){alt=''}
 
