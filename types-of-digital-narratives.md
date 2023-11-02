@@ -88,6 +88,7 @@ The user can make the choice on how to proceed.
 
 
 ## Different examples of Non-Linear narratives (Interactive)
+Interactive Films, Videogames, Interactive applications.
 
 ### Multiple-ending stories
 Usually, they have a well-defined beginning but can branch in different directions with the choice of different ending.
@@ -126,11 +127,11 @@ Can be all the above combined without a specific or well-defined ending. Sometim
 
 
 ### Player driven stories (Open worlds)
-> "People sometimes think "open-world" means an absence of narrative, just complete freedom of choice. But that’s not necessarily the case. In fact, it rarely is."
+This type of stories permit the user to roam free around an establish environmet or multiple environments. 
 
 ![Player driven stories graph (Open world) graph](fig/Fig_26_true-open-world-map.jpg){alt='graph'}
 
-
+> "People sometimes think "open-world" means an absence of narrative, just complete freedom of choice. But that’s not necessarily the case. In fact, it rarely is."
 
 Examples:
 
