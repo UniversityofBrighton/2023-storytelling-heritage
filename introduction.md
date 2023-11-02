@@ -26,18 +26,20 @@ exercises: 2
 We are humans that is why we communicate with stories. When we use the a narrative structure to communicate concepts we connect with our audience not only on a presentation level but also with an intimate an personal level, because the audience can bond with the caracthers, the objects or the environments of the story.
 
 > "Humans are natural storytellers. It has been THE FORM of passing on knowledge from generation to generation. Storytelling existed in some shape or form in all civilizations across time..."
-> - Tolisano, S.R. (2018). Digital Storytelling: What it is… And… What it is NOT. Langwitches.[https://langwitches.org/blog/2015/08/18/digital-storytelling-what-it-is-and-what-it-is-not/](https://langwitches.org/blog/2015/08/18/digital-storytelling-what-it-is-and-what-it-is-not/){target="_blank" rel="noopener"}
+
+- Tolisano, S.R. (2018). Digital Storytelling: What it is… And… What it is NOT. Langwitches.[https://langwitches.org/blog/2015/08/18/digital-storytelling-what-it-is-and-what-it-is-not/](https://langwitches.org/blog/2015/08/18/digital-storytelling-what-it-is-and-what-it-is-not/){target="_blank" rel="noopener"}
 
 
 > Storytelling "is not just entertainment. Telling stories is a fundamental part of being human".
-> - Hennebury, C. (2020). Storytelling is not just entertainment. It's a fundamental part of being human. For CBC.[https://www.cbc.ca/news/canada/newfoundland-labrador/storytelling-is-human-1.5511027](https://www.cbc.ca/news/canada/newfoundland-labrador/storytelling-is-human-1.5511027 ){target="_blank" rel="noopener"}
+
+- Hennebury, C. (2020). Storytelling is not just entertainment. It's a fundamental part of being human. For CBC.[https://www.cbc.ca/news/canada/newfoundland-labrador/storytelling-is-human-1.5511027](https://www.cbc.ca/news/canada/newfoundland-labrador/storytelling-is-human-1.5511027 ){target="_blank" rel="noopener"}
 
 
 ![US Embassy from New Zealand, Public domain by US Embassy New Zealand from Wikimedia Commons https://commons.wikimedia.org/wiki/File:Storytelling_(29663292122).jpg ](fig/Fig_02_Storytelling_(29663292122).jpg){alt=''}
 
 ## What is storytelling?
 
-"Storytelling is the social and cultural activity of sharing stories, sometimes with improvisation, theatrics or embellishment.
+> "Storytelling is the social and cultural activity of sharing stories, sometimes with improvisation, theatrics or embellishment.
 Every culture has its own stories or narratives, which are shared as a means of entertainment, education, cultural preservation or instilling moral values."
 [https://www.beyondintractability.org/essay/narratives](https://www.beyondintractability.org/essay/narratives) 
 
