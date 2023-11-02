@@ -155,17 +155,17 @@ The 6 Freeman Tilden principles from the book «Interpreting Our Heritage».
 3. Interpretation is an art, which combines many arts, whether the materials presented are scientific, historical or architectural. Any art is in some degree teachable.
 4. The chief aim of Interpretation is not instruction, but provocation. (what’s the story?)
 5. Interpretation should aim to present a whole rather than a part, and must address itself to the whole man rather than any phase. (what’s the story?)
-6. Interpretation addressed to children (say up to the age of twelve) should not be a dilution of the presentation to adults, but should follow a fundamentally different approach. To be at its best it will require a separate program. (who’s the audience?)
-https://thesciencepresenter.wordpress.com/2011/01/24/6-principles-of-heritage-interpretation/ 
+6. Interpretation addressed to children (say up to the age of twelve) should not be a dilution of the presentation to adults, but should follow a fundamentally different approach. To be at its best it will require a separate program. (who’s the audience?) 
+- The Science Presenter [https://thesciencepresenter.wordpress.com/2011/01/24/6-principles-of-heritage-interpretation/] (https://thesciencepresenter.wordpress.com/2011/01/24/6-principles-of-heritage-interpretation/){target="_blank" rel="noopener"}
 
 ![Freeman Tilden.  English:  Wilber "Bud" E. Dutton from Wikimedia](fig/Fig_28_Freeman.jpg){alt=''}
 
-
-![Tilden principles from https://thesciencepresenter.wordpress.com/2011/01/24/6-principles-of-heritage-interpretation/ ](fig/Fig_29_self_produced_graph.png){alt=''}
+How the 6 principles from Tilden fits into storytelling in heritage context.
+![Tilden principles into storytelling](fig/Fig_29_self_produced_graph.png){alt=''}
 
 ## Digital Storytelling in Heritage Interpretation.
 
-7 Tips on Digital Storytellinggiven by Europeana
+7 Tips on Digital Storytelling given by [Europeana](https://www.europeana.eu/en){target="_blank" rel="noopener"}
 
 1. Be Personal
 2. Be informal but expert
@@ -175,6 +175,6 @@ https://thesciencepresenter.wordpress.com/2011/01/24/6-principles-of-heritage-in
 6. Be specific
 7. Be evocative
 
-![Seven tips for digital storytelling with cultural heritage &copy; Maggy Szynkielewska, 202 from https://pro.europeana.eu/page/seven-tips-for-digital-storytelling](fig/FIg_30_7TipsForDigitalStorytelling4.jpeg){alt=''}
+![Seven tips for digital storytelling with cultural heritage &copy; Maggy Szynkielewska, 2020 from https://pro.europeana.eu/page/seven-tips-for-digital-storytelling](fig/FIg_30_7TipsForDigitalStorytelling4.jpeg){alt=''}
 
 
