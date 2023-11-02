@@ -26,14 +26,9 @@ exercises: 2
 > "Humans are natural storytellers. It has been THE FORM of passing on knowledge from generation to generation. Storytelling existed in some shape or form in all civilizations across time..."
 [https://langwitches.org/blog/2015/08/18/digital-storytelling-what-it-is-and-what-it-is-not/](https://langwitches.org/blog/2015/08/18/digital-storytelling-what-it-is-and-what-it-is-not/)
 
-![US Embassy from New Zealand, Public domain by US Embassy New Zealand from Wikimedia Commons https://commons.wikimedia.org/wiki/File:Storytelling_(29663292122).jpg ](fig/Fig_02_Storytelling_(29663292122).jpg){alt=''}
-
-
-
-
 >Storytelling "is not just entertainment. Telling stories is a fundamental part of being human".
 [https://www.cbc.ca/news/canada/newfoundland-labrador/storytelling-is-human-1.5511027](https://www.cbc.ca/news/canada/newfoundland-labrador/storytelling-is-human-1.5511027 ) 
-
+![US Embassy from New Zealand, Public domain by US Embassy New Zealand from Wikimedia Commons https://commons.wikimedia.org/wiki/File:Storytelling_(29663292122).jpg ](fig/Fig_02_Storytelling_(29663292122).jpg){alt=''}
 
 ## What is storytelling?
 
