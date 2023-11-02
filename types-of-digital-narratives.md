@@ -17,13 +17,20 @@ exercises: 2
     -	more...
  
  
-![Narrative as Virtual Reality 2: Revisiting Immersion and Interactivity in Literature by Ryan, Marie-Laure. Via annemarleen.gitbook.io https://annemarleen.gitbook.io/immersive-design/class-0-2/class-1](fig/Fig_08_1_oVa370S_18kQYYwT-e6Eow.jpg){alt='narratives'}
+![Narrative as Virtual Reality 2: Revisiting Immersion and Interactivity in Literature by Ryan, Marie-Laure. Via annemarleen.gitbook.io https://annemarleen.gitbook.io/immersive-design/class-0-2/class-1]{target="_blank" rel="noopener"}(fig/Fig_08_1_oVa370S_18kQYYwT-e6Eow.jpg){alt='narratives'}
 
 
 ### Traditional Linear Stories (Non-Interactive)
 E-Books, Films, Documentaries, Oral stories (Audio Podcast etc...)
 
-![Non-Linear Stories (Non-Interactive) Graph](fig/Fig_09_self_produced_graph.png){alt='graph'}
+The user is not able to make the choice on how to proceed.
+
+Must follow all the events in line with the given narrative.
+
+The only possible interaction is play/pause/stop.
+
+
+![Linear Stories (Non-Interactive) Graph](fig/Fig_09_self_produced_graph.png){alt='graph'}
 
 The user is not able to make the choice on how to proceed.
 
