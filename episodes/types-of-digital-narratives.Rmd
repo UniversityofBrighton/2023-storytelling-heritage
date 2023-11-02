@@ -132,8 +132,7 @@ This type of stories permit the user to roam free around an established environm
 
 > "People sometimes think "open-world" means an absence of narrative, just complete freedom of choice. But that’s not necessarily the case. In fact, it rarely is."
 >
-- Alfieri L. of Raven Sun Creative. The past, present & future of interactive narrative storytelling, part 2: back to the roots
-> [https://blooloop.com/theme-park/opinion/interactive-storytelling-part-2-roots/#:~:text=People%20sometimes%20think%20%E2%80%9Copen%2Dworld,be%20placed%20(or%20not.)](https://blooloop.com/theme-park/opinion/interactive-storytelling-part-2-roots/#:~:text=People%20sometimes%20think%20%E2%80%9Copen%2Dworld,be%20placed%20(or%20not.)){target="_blank" rel="noopener"}
+- Alfieri L. of Raven Sun Creative. The past, present & future of interactive narrative storytelling, part 2: back to the roots. [https://blooloop.com/theme-park/opinion/interactive-storytelling-part-2-roots/#:~:text=People%20sometimes%20think%20%E2%80%9Copen%2Dworld,be%20placed%20(or%20not.)](https://blooloop.com/theme-park/opinion/interactive-storytelling-part-2-roots/#:~:text=People%20sometimes%20think%20%E2%80%9Copen%2Dworld,be%20placed%20(or%20not.)){target="_blank" rel="noopener"}
 
 
 Examples:
@@ -145,8 +144,9 @@ Examples:
 
 ## Storytelling in Heritage Interpretation
 
->"...interpreters are charged with transforming a seemingly unmanageable amount of information into something suitable for the public."
-Horrocks A. (2019). Reinterpreting Freeman Tilden’s Interpreting Our Heritage. NCPH. [https://ncph.org/history-at-work/reinterpreting-freeman-tilden/](https://ncph.org/history-at-work/reinterpreting-freeman-tilden/){target="_blank" rel="noopener"}
+> "...interpreters are charged with transforming a seemingly unmanageable amount of information into something suitable for the public."
+>
+- Horrocks A. (2019). Reinterpreting Freeman Tilden’s Interpreting Our Heritage. NCPH. [https://ncph.org/history-at-work/reinterpreting-freeman-tilden/](https://ncph.org/history-at-work/reinterpreting-freeman-tilden/){target="_blank" rel="noopener"}
 
 The 6 Freeman Tilden principles from the book «Interpreting Our Heritage».
 
