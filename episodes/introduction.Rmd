@@ -23,7 +23,8 @@ exercises: 2
 ![Storytelling domains](fig/Fig_01_self_produced_graph.png){alt=''}
 
 ## Storytelling as human condition
-We are humans that is why we communicate with stories. When we use the a narrative structure to communicate concept we connect with our audience not only on a visual and oral level but also on a 
+We are humans that is why we communicate with stories. When we use the a narrative structure to communicate concepts we connect with our audience not only on a presentation level but also with an intimate an personal level, because the audience can bond with the caracthers, the objects or the environments of the story.
+
 > "Humans are natural storytellers. It has been THE FORM of passing on knowledge from generation to generation. Storytelling existed in some shape or form in all civilizations across time..."
 > - Tolisano, S.R. (2018). Digital Storytelling: What it is… And… What it is NOT. Langwitches.[https://langwitches.org/blog/2015/08/18/digital-storytelling-what-it-is-and-what-it-is-not/](https://langwitches.org/blog/2015/08/18/digital-storytelling-what-it-is-and-what-it-is-not/){target="_blank" rel="noopener"}
 
