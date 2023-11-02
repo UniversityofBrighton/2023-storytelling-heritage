@@ -18,7 +18,7 @@ exercises: 2
 [https://www.cbc.ca/news/canada/newfoundland-labrador/storytelling-is-human-1.5511027](https://www.cbc.ca/news/canada/newfoundland-labrador/storytelling-is-human-1.5511027 ) 
 
 
-## What is storytelling.
+## What is storytelling?
 
 "Storytelling is the social and cultural activity of sharing stories, sometimes with improvisation, theatrics or embellishment.
 Every culture has its own stories or narratives, which are shared as a means of entertainment, education, cultural preservation or instilling moral values."
@@ -26,7 +26,7 @@ Every culture has its own stories or narratives, which are shared as a means of 
 
 ![Elderly people sitting outdoors around a campfire - senior citizens on a picnic warming themselves by the fire on an autumn night &copy; Carlo from AdobeStock](fig/Fig_04_AdobeStock_461032749.jpeg){alt='campfire'}
 
-## What is the use of storytelling.
+## What is the use of storytelling?
 
 Storytelling can be used as a tool for different purposes; however, it goes beyond a simple planned activity to become part of our individual and collective life experience. The uses of storytelling are in fact limitless. 
 
@@ -58,7 +58,7 @@ It is *NOT* only (just) about telling a story... it is about contributing and co
 
 [https://langwitches.org/blog/2015/08/18/digital-storytelling-what-it-is-and-what-it-is-not/](https://langwitches.org/blog/2015/08/18/digital-storytelling-what-it-is-and-what-it-is-not/)
 
-### The Basic steps of Digital Storytelling 
+### The Basic Steps of Digital Storytelling 
 
 Samantha Morra proposes a storytelling cycle
 
