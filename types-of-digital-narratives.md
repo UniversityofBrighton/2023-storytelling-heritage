@@ -97,7 +97,7 @@ Usually, they have a well-defined beginning but can branch in different directio
 
 > "Some games in the **Final Fantasy** series have multiple or secret endings, the ending depending on the player's actions taken during the game. These can be as simple as minor adjustments to the final story scenes to reflect variable outcomes earlier in the game, or as drastic as entirely different conclusions to the story"
 >
-- Fandom. Final Fantasy Wiky. Multiple endings. [https://finalfantasy.fandom.com/wiki/Multiple_endings](https://finalfantasy.fandom.com/wiki/Multiple_endings) accessed 2-11-2023 
+- Fandom. Final Fantasy Wiky. Multiple endings. [https://finalfantasy.fandom.com/wiki/Multiple_endings](https://finalfantasy.fandom.com/wiki/Multiple_endings){target="_blank" rel="noopener"} accessed 2-11-2023 
 
 
 ![by Hautala and David Levy from Wikimedia](fig/Fig_21_Final_Fantasy_wordmark_TFA.png){alt='final fantasy'}
@@ -111,7 +111,7 @@ Usually, they have a well-defined beginning but can branch in different directio
 These types of stories branch in different directions but usually the have one ending, the user can make decision along the narrative.
 > "The entire Dragon Age series offers you multiple occasions where they have to make a decision; these choices can be small and change next to nothing, or they can be large plot points that go on to echo in the rest of the sequels."
 >
-- Hinton C. (2023). 15 Great Games With Branching Decision-Based Stories. The Gamer. [https://www.thegamer.com/games-witch-branching-stories/#dragon-age-inquisition](https://www.thegamer.com/games-witch-branching-stories/#dragon-age-inquisition) accessed 2-11-2023 
+- Hinton C. (2023). 15 Great Games With Branching Decision-Based Stories. The Gamer. [https://www.thegamer.com/games-witch-branching-stories/#dragon-age-inquisition](https://www.thegamer.com/games-witch-branching-stories/#dragon-age-inquisition){target="_blank" rel="noopener"} accessed 2-11-2023 
 
 ![&copy; greyloch from Wikimedia](fig/Fig_23_Dragon_Age_trio_(22660497598).jpg){alt=''}
 
@@ -127,15 +127,17 @@ Can be all the above combined without a specific or well-defined ending. Sometim
 
 
 ### Player driven stories (Open worlds)
-This type of stories permit the user to roam free around an establish environmet or multiple environments. 
+This type of stories permit the user to roam free around an established environmet or multiple environments. 
 
 ![Player driven stories graph (Open world) graph](fig/Fig_26_true-open-world-map.jpg){alt='graph'}
 
 > "People sometimes think "open-world" means an absence of narrative, just complete freedom of choice. But that’s not necessarily the case. In fact, it rarely is."
-
+>
+- People sometimes think “open-world” means an absence of narrative, just complete freedom of choice. But that’s not necessarily the case. In fact, it rarely is.
+[https://blooloop.com/theme-park/opinion/interactive-storytelling-part-2-roots/#:~:text=People%20sometimes%20think%20%E2%80%9Copen%2Dworld,be%20placed%20(or%20not.)](https://blooloop.com/theme-park/opinion/interactive-storytelling-part-2-roots/#:~:text=People%20sometimes%20think%20%E2%80%9Copen%2Dworld,be%20placed%20(or%20not.)){target="_blank" rel="noopener"}
 Examples:
 
-- Avalon RPG Game
+- [Avalon RPG Game] (https://www.avalon-rpg.com/){target="_blank" rel="noopener"}
 - Online Since 1984
 
 ![Avalon Logo](fig/Fig_27_Avalon_The_Legend_Lives.jpg){alt='logo'}
