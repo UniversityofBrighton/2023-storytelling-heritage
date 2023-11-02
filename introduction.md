@@ -41,7 +41,8 @@ As humans we communicate with stories. When we use the a narrative structure to 
 
 > "Storytelling is the social and cultural activity of sharing stories, sometimes with improvisation, theatrics or embellishment.
 Every culture has its own stories or narratives, which are shared as a means of entertainment, education, cultural preservation or instilling moral values."
-[https://www.beyondintractability.org/essay/narratives](https://www.beyondintractability.org/essay/narratives) 
+>
+- Chaitin J. (2003). Stories, Narratives, and Storytelling. Beyond Intractability. [https://www.beyondintractability.org/essay/narratives](https://www.beyondintractability.org/essay/narratives){target="_blank" rel="noopener"} 
 
 ![Elderly people sitting outdoors around a campfire - senior citizens on a picnic warming themselves by the fire on an autumn night &copy; Carlo from AdobeStock](fig/Fig_04_AdobeStock_461032749.jpeg){alt='campfire'}
 
@@ -54,9 +55,10 @@ Storytelling can be used as a tool for different purposes; however, it goes beyo
 
 ## From analogue to digital
 
-"...Digital Storytelling, has opened up new horizons, inconceivable without the use of technology. Storytelling is evolving, as humans are adapting, experimenting and innovating with the use of ever-changing technology, the growth of human networks and our ability to imagine new paths."
+> "...Digital Storytelling, has opened up new horizons, inconceivable without the use of technology. Storytelling is evolving, as humans are adapting, experimenting and innovating with the use of ever-changing technology, the growth of human networks and our ability to imagine new paths."
+>
+- Tolisano, S.R. (2018). Digital Storytelling: What it is… And… What it is NOT. Langwitches.[https://langwitches.org/blog/2015/08/18/digital-storytelling-what-it-is-and-what-it-is-not/](https://langwitches.org/blog/2015/08/18/digital-storytelling-what-it-is-and-what-it-is-not/){target="_blank" rel="noopener"}
 
-[https://langwitches.org/blog/2015/08/18/digital-storytelling-what-it-is-and-what-it-is-not/](https://langwitches.org/blog/2015/08/18/digital-storytelling-what-it-is-and-what-it-is-not/)
  
 ![&copy; Framestock from AdobeStock](fig/FIg_06_AdobeStock_535693047.jpeg){alt=''}
 
