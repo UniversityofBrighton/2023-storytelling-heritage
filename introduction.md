@@ -23,7 +23,7 @@ exercises: 2
 ![Storytelling domains](fig/Fig_01_self_produced_graph.png){alt=''}
 
 ## Storytelling as human condition
-As humans that we communicate with stories. When we use the a narrative structure to communicate concepts we connect with our audience not only on a presentation level but also on intimate an personal level, because the audience can bond with the caracthers, the objects or the environments of the story.
+As humans we communicate with stories. When we use the a narrative structure to communicate concepts we connect with our audience not only on a presentation level but also on intimate an personal level, because the audience can bond with the caracthers, the objects or the environments of the story.
 
 > "Humans are natural storytellers. It has been THE FORM of passing on knowledge from generation to generation. Storytelling existed in some shape or form in all civilizations across time..."
 >
