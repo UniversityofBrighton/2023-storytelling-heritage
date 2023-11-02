@@ -6,7 +6,7 @@ exercises: 2
 
 
 ## Storytelling
-- Narralive Storymaker: https://www.narralive.org/story-maker/ 
+- Narrative Storymaker: https://www.narralive.org/story-maker/ 
 - Terrastories: https://terrastories.app/
 - Voyager Story Standalone: https://3d.si.edu/voyager-story-standalone 
 
