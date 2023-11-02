@@ -118,9 +118,8 @@ These types of stories branch in different directions but usually the have one e
  
 ### Open ended stories
 Can be all the above combined without a specific or well-defined ending. Sometime used in films for sequels.
+
 ![Open ended stories graph](fig/FIg_24_assas.png){alt='graph'}
-
-
 
 
 ![Screenshot of Assassin’s Creed &copy; Gary Ullah from Wikimedia](fig/Fig_25_Ely_cathedral_(12859673264).jpg){alt='creed'}
@@ -133,12 +132,12 @@ This type of stories permit the user to roam free around an established environm
 
 > "People sometimes think "open-world" means an absence of narrative, just complete freedom of choice. But that’s not necessarily the case. In fact, it rarely is."
 >
-- People sometimes think “open-world” means an absence of narrative, just complete freedom of choice. But that’s not necessarily the case. In fact, it rarely is.
+- Alfieri L. of Raven Sun Creative. The past, present & future of interactive narrative storytelling, part 2: back to the roots
 > [https://blooloop.com/theme-park/opinion/interactive-storytelling-part-2-roots/#:~:text=People%20sometimes%20think%20%E2%80%9Copen%2Dworld,be%20placed%20(or%20not.)](https://blooloop.com/theme-park/opinion/interactive-storytelling-part-2-roots/#:~:text=People%20sometimes%20think%20%E2%80%9Copen%2Dworld,be%20placed%20(or%20not.)){target="_blank" rel="noopener"}
+
 Examples:
 
-- [Avalon RPG Game] (https://www.avalon-rpg.com/){target="_blank" rel="noopener"}
-- Online Since 1984
+- [Avalon RPG Game Online since 1989](https://www.avalon-rpg.com/){target="_blank" rel="noopener"}
 
 ![Avalon Logo](fig/Fig_27_Avalon_The_Legend_Lives.jpg){alt='logo'}
 
