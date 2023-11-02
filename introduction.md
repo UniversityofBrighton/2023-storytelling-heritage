@@ -23,12 +23,13 @@ exercises: 2
 ![Storytelling domains](fig/Fig_01_self_produced_graph.png){alt=''}
 
 ## Storytelling as human condition
+We are humans that is why we communicate with stories. When we use the a narrative structure to communicate concept we connect with our audience not only on a visual and oral level but also on a 
 > "Humans are natural storytellers. It has been THE FORM of passing on knowledge from generation to generation. Storytelling existed in some shape or form in all civilizations across time..."
-Tolisano, S.R. (2018). Digital Storytelling: What it is… And… What it is NOT. Langwitches.[https://langwitches.org/blog/2015/08/18/digital-storytelling-what-it-is-and-what-it-is-not/](https://langwitches.org/blog/2015/08/18/digital-storytelling-what-it-is-and-what-it-is-not/){target="_blank" rel="noopener"}
+> - Tolisano, S.R. (2018). Digital Storytelling: What it is… And… What it is NOT. Langwitches.[https://langwitches.org/blog/2015/08/18/digital-storytelling-what-it-is-and-what-it-is-not/](https://langwitches.org/blog/2015/08/18/digital-storytelling-what-it-is-and-what-it-is-not/){target="_blank" rel="noopener"}
 
 
 > Storytelling "is not just entertainment. Telling stories is a fundamental part of being human".
-Hennebury, C. (2020). Storytelling is not just entertainment. It's a fundamental part of being human. For CBC.[https://www.cbc.ca/news/canada/newfoundland-labrador/storytelling-is-human-1.5511027](https://www.cbc.ca/news/canada/newfoundland-labrador/storytelling-is-human-1.5511027 ){target="_blank" rel="noopener"}
+> - Hennebury, C. (2020). Storytelling is not just entertainment. It's a fundamental part of being human. For CBC.[https://www.cbc.ca/news/canada/newfoundland-labrador/storytelling-is-human-1.5511027](https://www.cbc.ca/news/canada/newfoundland-labrador/storytelling-is-human-1.5511027 ){target="_blank" rel="noopener"}
 
 
 ![US Embassy from New Zealand, Public domain by US Embassy New Zealand from Wikimedia Commons https://commons.wikimedia.org/wiki/File:Storytelling_(29663292122).jpg ](fig/Fig_02_Storytelling_(29663292122).jpg){alt=''}
