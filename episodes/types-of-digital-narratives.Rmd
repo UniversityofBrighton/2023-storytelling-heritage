@@ -51,7 +51,7 @@ E-Books, Films, Documentaries
 
 - The user is not able to choose how to proceed.
 
-- Must follow all the events in the narrative but with the presence of flash-backs and/or flash-forwards.
+- Must follow all the events in the narrative but with the presence of *flash-backs and/or flash-forwards*.
 
 - Sometimes these experiences need to be repeated to understand the plot, like for example the film [Memento.](https://en.wikipedia.org/wiki/Memento_(film)){target="_blank" rel="noopener"}{alt='memento'}
  
