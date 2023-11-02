@@ -20,6 +20,17 @@ exercises: 2
 - To understand the concept of Digital Storytelling in Heritage Interpretation.
 :::::::::::::
 
+
+## Domains of Interests and definitions 
+Storytelling  
+- The art of telling stories in different formats (Oral, Films, Theatre, Dance, Writing, Multimedia, etc.. and any of these combined) 
+Storytelling for Heritage Interpretation  
+- The art of interpreting Heritage by telling stories 
+Digital Storytelling 
+- The art of telling stories in digital formats 
+Digital Storytelling in Heritage Interpretation 
+- The art of telling stories in digital formats in heritage contexts
+
 ![Storytelling domains](fig/Fig_01_self_produced_graph.png){alt=''}
 
 ## Storytelling as human condition
