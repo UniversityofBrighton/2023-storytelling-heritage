@@ -10,11 +10,11 @@ exercises: 2
 -	Traditional Linear Stories (Non-Interactive)
 -	Traditional Linear Stories (Interactive)
 -	Non-Linear Stories (Interactive) 
-  +	Multiple-Ending Stories
-  +	Branching path Stories
-  +	Open-ended stories
-  +	Player Driven Stories (Open Worlds)
-  +	more...
+-	Multiple-Ending Stories
+    -	Branching path Stories
+    -	Open-ended stories
+    -	Player Driven Stories (Open Worlds)
+    -	more...
  
  
 ![Narrative as Virtual Reality 2: Revisiting Immersion and Interactivity in Literature by Ryan, Marie-Laure. Via annemarleen.gitbook.io https://annemarleen.gitbook.io/immersive-design/class-0-2/class-1](fig/Fig_08_1_oVa370S_18kQYYwT-e6Eow.jpg){alt='narratives'}
