@@ -140,13 +140,13 @@ Examples:
 
 [Avalon RPG Game Online since 1989](https://www.avalon-rpg.com/){target="_blank" rel="noopener"}
 
-![Avalon Logo](fig/Fig_27_Avalon_The_Legend_Lives.jpg){alt='logo'}
+
 
 
 ## Storytelling in Heritage Interpretation
 
 >"...interpreters are charged with transforming a seemingly unmanageable amount of information into something suitable for the public."
-[https://ncph.org/history-at-work/reinterpreting-freeman-tilden/](https://ncph.org/history-at-work/reinterpreting-freeman-tilden/)
+Horrocks A. (2019). Reinterpreting Freeman Tilden’s Interpreting Our Heritage. NCPH. [https://ncph.org/history-at-work/reinterpreting-freeman-tilden/](https://ncph.org/history-at-work/reinterpreting-freeman-tilden/){target="_blank" rel="noopener"}
 
 The 6 Freeman Tilden principles from the book «Interpreting Our Heritage».
 
