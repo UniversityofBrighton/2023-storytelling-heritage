@@ -80,20 +80,24 @@ The user can make the choice on how to proceed.
 
 
 
->"Black Mirror Bandersnatch is a very interesting concept. It gives you choices that start out simple like choosing a cereal box for breakfast and steadily moves towards darker decisions. You find yourself choosing who lives and dies and what to destroy and what to save. If we take a look at todays society, most people have become desensitized to so many different things. You are either numb to the world or sheltered from it. And this is the real point I think Bandersnatch is getting at. I found myself choosing bad decisions because I wanted to see how it would turn out. And I'm sure many other people did the same". *Comment by Nicolas A. on Twitter*
+>"Black Mirror Bandersnatch is a very interesting concept. It gives you choices that start out simple like choosing a cereal box for breakfast and steadily moves towards darker decisions. You find yourself choosing who lives and dies and what to destroy and what to save. If we take a look at todays society, most people have become desensitized to so many different things. You are either numb to the world or sheltered from it. And this is the real point I think Bandersnatch is getting at. I found myself choosing bad decisions because I wanted to see how it would turn out. And I'm sure many other people did the same".
+>
+- *Comment by Nicolas A. on Twitter*
 
-![Black Mirror Logo by Mark Simonson and Céréales Killer](fig/Fig_19_Black_Mirror_logo.png){alt='black mirror'}
+![&copy; Black Mirror Logo by Mark Simonson and Céréales Killer](fig/Fig_19_Black_Mirror_logo.png){alt='black mirror'}
 
 
-## More examples of Non-Linear narratives (Interactive)
+## Different examples of Non-Linear narratives (Interactive)
 
 ### Multiple-ending stories
 Usually, they have a well-defined beginning but can branch in different directions with the choice of different ending.
 
 ![Multiple ending stories graph](fig/Fig_20_5-A-simplified-structure-of-a-branching-narrati.png){alt='graph'}
 
-> "Some games in the Final Fantasy series have multiple or secret endings, the ending depending on the player's actions taken during the game. These can be as simple as minor adjustments to the final story scenes to reflect variable outcomes earlier in the game, or as drastic as entirely different conclusions to the story"
-[https://finalfantasy.fandom.com/wiki/Multiple_endings](https://finalfantasy.fandom.com/wiki/Multiple_endings)
+> "Some games in the **Final Fantasy** series have multiple or secret endings, the ending depending on the player's actions taken during the game. These can be as simple as minor adjustments to the final story scenes to reflect variable outcomes earlier in the game, or as drastic as entirely different conclusions to the story"
+>
+- [https://finalfantasy.fandom.com/wiki/Multiple_endings](https://finalfantasy.fandom.com/wiki/Multiple_endings)
+
 
 ![by Hautala and David Levy from Wikimedia](fig/Fig_21_Final_Fantasy_wordmark_TFA.png){alt='final fantasy'}
 
