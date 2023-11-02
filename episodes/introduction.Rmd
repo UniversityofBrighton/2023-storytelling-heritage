@@ -73,6 +73,7 @@ A definition for Digital Storytelling
 **also**
 
 > It is *NOT* about creating media... it is about creating meaning.
+>
 - Tolisano, S.R. (2018). Digital Storytelling: What it is… And… What it is NOT. Langwitches.[https://langwitches.org/blog/2015/08/18/digital-storytelling-what-it-is-and-what-it-is-not/](https://langwitches.org/blog/2015/08/18/digital-storytelling-what-it-is-and-what-it-is-not/){target="_blank" rel="noopener"}
 
 
