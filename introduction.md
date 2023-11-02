@@ -3,6 +3,22 @@ title: 'Storytelling'
 teaching: 10
 exercises: 2
 ---
+:::::::::::::::::::::::::::::::::::::: questions 
+
+- How can storytelling support the engagement of audiences in a heritage context?
+
+- What types of storytelling there are?
+
+- What tools are available for creating stories in a heritage context?
+
+::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::: objectives
+- To understand the concept of storytelling.
+
+- To understand the concept of Digital Storytelling.
+
+- To understand the concept of Digital Storytelling in Heritage Interpretation.
+:::::::::::::
 
 ![Storytelling domains](fig/Fig_01_self_produced_graph.png){alt=''}
 
