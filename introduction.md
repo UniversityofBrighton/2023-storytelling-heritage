@@ -7,15 +7,15 @@ exercises: 2
 
 - How can storytelling support the engagement of audiences in a heritage context?
 
-- What types of storytelling there are?
+- What are the types of storytelling?
 
 - What tools are available for creating stories in a heritage context?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 ::::::::::::::::::::::::::::::::::::: objectives
-- To understand the concept of storytelling.
+- To understand the basic concept of storytelling.
 
-- To understand the concept of Digital Storytelling.
+- To understand the basic concept of Digital Storytelling.
 
 - To understand the concept of Digital Storytelling in Heritage Interpretation.
 :::::::::::::
@@ -24,11 +24,12 @@ exercises: 2
 
 ## Storytelling as human condition
 > "Humans are natural storytellers. It has been THE FORM of passing on knowledge from generation to generation. Storytelling existed in some shape or form in all civilizations across time..."
+[https://langwitches.org/blog/2015/08/18/digital-storytelling-what-it-is-and-what-it-is-not/](https://langwitches.org/blog/2015/08/18/digital-storytelling-what-it-is-and-what-it-is-not/)
 
 ![US Embassy from New Zealand, Public domain by US Embassy New Zealand from Wikimedia Commons https://commons.wikimedia.org/wiki/File:Storytelling_(29663292122).jpg ](fig/Fig_02_Storytelling_(29663292122).jpg){alt=''}
 
 
-[https://langwitches.org/blog/2015/08/18/digital-storytelling-what-it-is-and-what-it-is-not/](https://langwitches.org/blog/2015/08/18/digital-storytelling-what-it-is-and-what-it-is-not/)
+
 
 >Storytelling "is not just entertainment. Telling stories is a fundamental part of being human".
 [https://www.cbc.ca/news/canada/newfoundland-labrador/storytelling-is-human-1.5511027](https://www.cbc.ca/news/canada/newfoundland-labrador/storytelling-is-human-1.5511027 ) 
