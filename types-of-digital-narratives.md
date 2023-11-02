@@ -150,12 +150,12 @@ Examples:
 
 The 6 Freeman Tilden principles from the book «Interpreting Our Heritage».
 >
->1. Any interpretation that does not somehow relate what is being displayed or described to something within the personality or experience of the visitor will be sterile. (who’s the audience?)
+> 1. Any interpretation that does not somehow relate what is being displayed or described to something within the personality or experience of the visitor will be sterile. (who’s the audience?)
 >2. Information, as such, is not Interpretation. Interpretation is revelation based upon information. But they are entirely different things. However all interpretation includes information. (where’s the science?)
->3. Interpretation is an art, which combines many arts, whether the materials presented are scientific, historical or architectural. Any art is in some degree teachable.
->4. The chief aim of Interpretation is not instruction, but provocation. (what’s the story?)
->5. Interpretation should aim to present a whole rather than a part, and must address itself to the whole man rather than any phase. (what’s the story?)
->6. Interpretation addressed to children (say up to the age of twelve) should not be a dilution of the presentation to adults, but should follow a fundamentally different approach. To be at its best it will require a separate program. (who’s the audience?)
+> 3. Interpretation is an art, which combines many arts, whether the materials presented are scientific, historical or architectural. Any art is in some degree teachable.
+> 4. The chief aim of Interpretation is not instruction, but provocation. (what’s the story?)
+> 5. Interpretation should aim to present a whole rather than a part, and must address itself to the whole man rather than any phase. (what’s the story?)
+> 6. Interpretation addressed to children (say up to the age of twelve) should not be a dilution of the presentation to adults, but should follow a fundamentally different approach. To be at its best it will require a separate program. (who’s the audience?)
 >
 - The Science Presenter [https://thesciencepresenter.wordpress.com/2011/01/24/6-principles-of-heritage-interpretation/] (https://thesciencepresenter.wordpress.com/2011/01/24/6-principles-of-heritage-interpretation/){target="_blank" rel="noopener"}
 
