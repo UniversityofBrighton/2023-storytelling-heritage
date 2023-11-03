@@ -117,7 +117,8 @@ These types of stories branch in different directions but usually the have one e
 
  
 ### Open ended stories
-Can be all the above combined without a specific or well-defined ending. Sometime used in films for sequels.
+Can be all of the above combined without a specific or well-defined ending. Sometimes they are used in films for sequels or prequels.
+
 
 ![Open ended stories graph](fig/Fig_23_self_produced_graph.png){alt='graph'}
 
@@ -162,7 +163,7 @@ The 6 Freeman Tilden principles from the book [«Interpreting Our Heritage».](h
 
 > 6. Interpretation addressed to children (say up to the age of twelve) should not be a dilution of the presentation to adults, but should follow a fundamentally different approach. To be at its best it will require a separate program. (who’s the audience?)
 >
-- The Science Presenter [https://thesciencepresenter.wordpress.com/2011/01/24/6-principles-of-heritage-interpretation/](https://thesciencepresenter.wordpress.com/2011/01/24/6-principles-of-heritage-interpretation/){target="_blank" rel="noopener"}
+- The Science Presenter [https://thesciencepresenter.wordpress.com/2011/01/24/6-principles-of-heritage-interpretation/](https://thesciencepresenter.wordpress.com/2011/01/24/6-principles-of-heritage-interpretation/){target="_blank" rel="noopener"} accessed 3-11-2023.
 
 ![Freeman Tilden.  English:  Wilber "Bud" E. Dutton from Wikimedia](fig/Fig_28_Freeman.jpg){alt=''}
 
