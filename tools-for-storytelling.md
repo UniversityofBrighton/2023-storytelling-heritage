@@ -1,5 +1,5 @@
 ---
-title: 'Tools for Storytelling'
+title: 'Tools and platforms for Storytelling'
 teaching: 10
 exercises: 2
 ---
@@ -15,6 +15,7 @@ Branching narrative
 - Yarn Spinner: [https://yarnspinner.dev/](https://yarnspinner.dev/){target="_blank" rel="noopener"}
 - Twine: [https://twinery.org/](https://twinery.org/){target="_blank" rel="noopener"}
 - Inklewriter: [https://www.inklestudios.com/inklewriter/](https://www.inklestudios.com/inklewriter/){target="_blank" rel="noopener"}
+- Playfic: [https://playfic.com/](https://playfic.com/){target="_blank" rel="noopener"}
 
 
 CMS and WEB
@@ -51,13 +52,16 @@ Video
 - Davinci Resolve: [](){target="_blank" rel="noopener"}
 
 
-Games and 3D
+2d/3d Games and 3D real-time film
 
 - Belender: [https://www.blender.org/](https://www.blender.org/){target="_blank" rel="noopener"}
 - Unreal Engine: [https://www.unrealengine.com/](https://www.unrealengine.com/){target="_blank" rel="noopener"} 
 - Unity: [https://unity.com/](ttps://unity.com/){target="_blank" rel="noopener"}
 - Twinmotion: [https://www.twinmotion.com](https://www.twinmotion.com){target="_blank" rel="noopener"}
+- Alice: [http://www.alice.org](http://www.alice.org){target="_blank" rel="noopener"}
 - Visionare Studio: [https://www.visionaire-studio.net/](https://www.visionaire-studio.net/){target="_blank" rel="noopener"}
+- Adventure Maker: [http://www.adventuremaker.com/](http://www.adventuremaker.com/){target="_blank" rel="noopener"}
+- Adventure Game Studio [https://www.adventuregamestudio.co.uk/](https://www.adventuregamestudio.co.uk/){target="_blank" rel="noopener"}
 
 ## Digital Storytelling in heritage context, museums and exhibitions
 - Narralive: [https://www.narralive.org/story-maker/](https://www.narralive.org/story-maker/){target="_blank" rel="noopener"}
