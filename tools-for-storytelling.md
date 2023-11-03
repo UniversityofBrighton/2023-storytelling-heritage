@@ -4,22 +4,26 @@ teaching: 10
 exercises: 2
 ---
 ## Digital Storytelling
-Visual Novel:
+Visual Novel
+
 - RenPy: [https://www.renpy.org/](https://www.renpy.org/)(https://www.renpy.org/){target="_blank" rel="noopener"}
 - Tyrano Builder: [https://tyranobuilder.com/](https://tyranobuilder.com){target="_blank" rel="noopener"}
 - Visionare Studio: [https://www.visionaire-studio.net/](https://www.visionaire-studio.net/){target="_blank" rel="noopener"}
 
-Branching narrative:
+Branching narrative
+
 - Yarn Spinner: [https://yarnspinner.dev/](https://yarnspinner.dev/){target="_blank" rel="noopener"}
 - Twine: [https://twinery.org/](https://twinery.org/){target="_blank" rel="noopener"}
 - Inklewriter: [https://www.inklestudios.com/inklewriter/](https://www.inklestudios.com/inklewriter/){target="_blank" rel="noopener"}
 
 CMS and WEB
+
 - Aesop Storyengine: [https://aesopstoryengine.com/](https://aesopstoryengine.com/){target="_blank" rel="noopener"} 
 - Arcgis Storymaps: [https://storymaps.arcgis.com/](https://storymaps.arcgis.com/){target="_blank" rel="noopener"} 
 - Odyssey: [https://cartodb.github.io/odyssey.js/](https://cartodb.github.io/odyssey.js/){target="_blank" rel="noopener"}
 
 360
+
 - Pano2VR: [https://ggnome.com/pano2vr/](https://ggnome.com/pano2vr/){target="_blank" rel="noopener"}
 - Panoraven: [https://panoraven.com/en](https://panoraven.com/en){target="_blank" rel="noopener"}
 - Orbix360: [https://orbix360.com/](https://orbix360.com/){target="_blank" rel="noopener"}
@@ -28,6 +32,7 @@ CMS and WEB
 - Matterport: [https://matterport.com/en-gb](https://matterport.com/en-gb){target="_blank" rel="noopener"}
 
 VR/AR
+
 - CenarioVR: [https://www.cenariovr.com/](https://www.cenariovr.com/){target="_blank" rel="noopener"}
 - Iris VR: [https://irisvr.com/](https://irisvr.com/){target="_blank" rel="noopener"}
 - SparkVR: [https://spark.meta.com/](https://spark.meta.com/){target="_blank" rel="noopener"}
@@ -37,10 +42,12 @@ VR/AR
 - TrainAR: [https://mixality.de/trainar/](https://mixality.de/trainar/){target="_blank" rel="noopener"}
 
 Video
+
 - Open-Hypervideo: [http://www.open-hypervideo.org/](http://www.open-hypervideo.org/){target="_blank" rel="noopener"}
 - Davinci Resolve: [](){target="_blank" rel="noopener"}
 
 Games and 3D
+
 - Belender: [https://www.blender.org/](https://www.blender.org/){target="_blank" rel="noopener"}
 - Unreal Engine: [https://www.unrealengine.com/](https://www.unrealengine.com/){target="_blank" rel="noopener"} 
 - Unity: [https://unity.com/](ttps://unity.com/){target="_blank" rel="noopener"}
