@@ -27,7 +27,7 @@ The following tools leverage the interoperability offered by IIIF:
 - Wax: https://minicomp.github.io/wax/
 - Full List at: https://iiif.io/get-started/tools/
 
-##  Text and images and video
+##  Text, images and video
 - Twine: https://twinery.org/ 
 - Inklewriter: https://www.inklestudios.com/inklewriter/
 - Aesop Storyengine: https://aesopstoryengine.com/ 
