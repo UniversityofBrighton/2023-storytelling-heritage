@@ -162,7 +162,7 @@ The 6 Freeman Tilden principles from the book «Interpreting Our Heritage».
 ![Freeman Tilden.  English:  Wilber "Bud" E. Dutton from Wikimedia](fig/Fig_28_Freeman.jpg){alt=''}
 
 How the 6 principles from Tilden fits into storytelling in heritage context.
-![Tilden principles into storytelling](fig/Fig_29_self_produced_graph.png){alt=''}
+![Tilden principles into storytelling](fig/Fig_29b_self_produced_graph.png){alt=''}
 
 ## Digital Storytelling in Heritage Interpretation.
 Digital Storytelling in Heritage context can be quite challenging however the rules for good results can be driven from the previous domain of digital storytelling.
