@@ -162,11 +162,13 @@ The 6 Freeman Tilden principles from the book [«Interpreting Our Heritage».](h
 
 > 6. Interpretation addressed to children (say up to the age of twelve) should not be a dilution of the presentation to adults, but should follow a fundamentally different approach. To be at its best it will require a separate program. (who’s the audience?)
 >
-- The Science Presenter [https://thesciencepresenter.wordpress.com/2011/01/24/6-principles-of-heritage-interpretation/] (https://thesciencepresenter.wordpress.com/2011/01/24/6-principles-of-heritage-interpretation/){target="_blank" rel="noopener"}
+- The Science Presenter [https://thesciencepresenter.wordpress.com/2011/01/24/6-principles-of-heritage-interpretation/](https://thesciencepresenter.wordpress.com/2011/01/24/6-principles-of-heritage-interpretation/){target="_blank" rel="noopener"}
 
 ![Freeman Tilden.  English:  Wilber "Bud" E. Dutton from Wikimedia](fig/Fig_28_Freeman.jpg){alt=''}
 
 How the 6 principles from Tilden fits into storytelling in heritage context.
+
+
 ![Tilden principles into storytelling](fig/Fig_29b_self_produced_graph.png){alt=''}
 
 ## Digital Storytelling in Heritage Interpretation.
