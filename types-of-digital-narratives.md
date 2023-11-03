@@ -106,7 +106,7 @@ Usually, they have a well-defined beginning but can branch in different directio
 ### Branch stories
 These types of stories branch in different directions but usually the have one ending, the user can make decision along the narrative.
 
-![Branch stories graph](fig/Fig_23_self_produced_graph.png){alt='graph'}
+![Branch stories graph](fig/Fig_22_self_produced_graph.png){alt='graph'}
 
 
 > "The entire Dragon Age series offers you multiple occasions where they have to make a decision; these choices can be small and change next to nothing, or they can be large plot points that go on to echo in the rest of the sequels."
@@ -119,7 +119,7 @@ These types of stories branch in different directions but usually the have one e
 ### Open ended stories
 Can be all the above combined without a specific or well-defined ending. Sometime used in films for sequels.
 
-![Open ended stories graph](fig/FIg_24_assas.png){alt='graph'}
+![Open ended stories graph](fig/Fig_23_self_produced_graph.png){alt='graph'}
 
 
 ![Screenshot of Assassin’s Creed &copy; Gary Ullah from Wikimedia](fig/Fig_25_Ely_cathedral_(12859673264).jpg){alt='creed'}
