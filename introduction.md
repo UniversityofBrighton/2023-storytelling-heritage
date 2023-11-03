@@ -46,7 +46,7 @@ As humans we communicate with stories. When we use the a narrative structure to 
 - Hennebury, C. (2020). Storytelling is not just entertainment. It's a fundamental part of being human. For CBC.[https://www.cbc.ca/news/canada/newfoundland-labrador/storytelling-is-human-1.5511027](https://www.cbc.ca/news/canada/newfoundland-labrador/storytelling-is-human-1.5511027 ){target="_blank" rel="noopener"}
 
 
-![US Embassy from New Zealand, Public domain by US Embassy New Zealand from Wikimedia Commons https://commons.wikimedia.org/wiki/File:Storytelling_(29663292122).jpg ](fig/Fig_02_Storytelling_(29663292122).jpg){alt=''}
+![US Embassy from New Zealand by US Embassy New Zealand from Wikimedia Commons 
 
 ## What is storytelling?
 
@@ -55,7 +55,7 @@ Every culture has its own stories or narratives, which are shared as a means of 
 >
 - Chaitin J. (2003). Stories, Narratives, and Storytelling. Beyond Intractability. [https://www.beyondintractability.org/essay/narratives](https://www.beyondintractability.org/essay/narratives){target="_blank" rel="noopener"} 
 
-![Elderly people sitting outdoors around a campfire - senior citizens on a picnic warming themselves by the fire on an autumn night &copy; Carlo from AdobeStock](fig/Fig_04_AdobeStock_461032749.jpeg){alt='campfire'}
+![Elderly people sitting outdoors around a campfire - senior citizens on a picnic warming themselves by the fire on an autumn night by Carlo from AdobeStock](fig/Fig_04_AdobeStock_461032749.jpeg){alt='campfire'}
 
 ## What is the use of storytelling?
 
@@ -82,7 +82,7 @@ One of the first example of interactive storytelling in literature can be found 
 - Tolisano, S.R. (2018). Digital Storytelling: What it is… And… What it is NOT. Langwitches.[https://langwitches.org/blog/2015/08/18/digital-storytelling-what-it-is-and-what-it-is-not/](https://langwitches.org/blog/2015/08/18/digital-storytelling-what-it-is-and-what-it-is-not/){target="_blank" rel="noopener"}
 
  
-![&copy; Framestock from AdobeStock](fig/FIg_06_AdobeStock_535693047.jpeg){alt=''}
+![Animator creates sketches for the cartoon. Works on the storyboard. Comics Compilation. Storyboard movie layout for pre-production. Creative art work. Home based set up. By Framestock from AdobeStock](fig/FIg_06_AdobeStock_535693047.jpeg){alt=''}
 
 ## What is (interactive) digital storytelling?
 
