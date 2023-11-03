@@ -104,7 +104,7 @@ Samantha Morra proposes a storytelling cycle
 
 > "The term "storytelling" can refer specifically to oral storytelling but also broadly to techniques used in other media to unfold or disclose the narrative of a story."
 >
--[https://en.wikipedia.org/wiki/Storytelling](https://en.wikipedia.org/wiki/Storytelling){target="_blank" rel="noopener"}
+- [https://en.wikipedia.org/wiki/Storytelling](https://en.wikipedia.org/wiki/Storytelling){target="_blank" rel="noopener"}
 
 > "...the recent decades of this century have seen a tremendous development of diverse theories of narrative, so many and so diverse that it makes the mind ache to think of them all."
 >
