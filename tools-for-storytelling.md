@@ -8,12 +8,10 @@ Visual Novel:
 - RenPy: [https://www.renpy.org/](https://www.renpy.org/)(https://www.renpy.org/){target="_blank" rel="noopener"}
 - Tyrano Builder: [https://tyranobuilder.com/](https://tyranobuilder.com){target="_blank" rel="noopener"}
 - Visionare Studio: [https://www.visionaire-studio.net/](https://www.visionaire-studio.net/){target="_blank" rel="noopener"} 
-
 Branching narrative:
 - Yarn Spinner: [https://yarnspinner.dev/](https://yarnspinner.dev/){target="_blank" rel="noopener"}
 - Twine: [https://twinery.org/](https://twinery.org/){target="_blank" rel="noopener"}
 - Inklewriter: [https://www.inklestudios.com/inklewriter/](https://www.inklestudios.com/inklewriter/){target="_blank" rel="noopener"}
-
 CMS and WEB
 - Aesop Storyengine: [https://aesopstoryengine.com/](https://aesopstoryengine.com/){target="_blank" rel="noopener"} 
 - Arcgis Storymaps: [https://storymaps.arcgis.com/](https://storymaps.arcgis.com/){target="_blank" rel="noopener"} 
