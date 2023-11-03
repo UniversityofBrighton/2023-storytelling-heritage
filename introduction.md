@@ -65,7 +65,8 @@ Storytelling can be used as a tool for different purposes; however, it goes beyo
 
 
 ## Interactive storytelling in Literature
-One of the first example of interactive storytelling in literature can be found in the series ["Choose your own adventure"](https://www.cyoa.com/){target="_blank" rel="noopener"}from Edward Packard. Here the readear can choose how to follow the narrative in a non-liner fashion and choosing the path of a multiple ending story. Those types of stories can be categorized also as gamebooks.
+One of the first example of interactive storytelling in literature can be found in the series ["Choose your own adventure"](https://www.cyoa.com/){target="_blank" rel="noopener"} from Edward Packard. Here the reader can choose how to follow the narrative in a non-liner fashion and choosing the path of a multiple ending story. Those types of stories can be categorized also as gamebooks.[https://en.wikipedia.org/wiki/Gamebook](https://en.wikipedia.org/wiki/Gamebook){target="_blank" rel="noopener"}
+
 ![front cover art for the book The Cave of Time written by Edward Packard. Wikimedia Non-free media information and use rationale – non-free book cover for Edward Packard](https://upload.wikimedia.org/wikipedia/en/f/f0/Cave_of_time.jpg){alt='words'}
 
 > Choose Your Own Adventure books were a series of kids gamebooks popular in the 1980s. They were written from a second-person point of view where the reader became the protagonist, making choices that would alter the story. The books would sell over 350 million copies through the 80s.
