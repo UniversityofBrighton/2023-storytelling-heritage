@@ -148,7 +148,7 @@ Examples:
 >
 - Horrocks A. (2019). Reinterpreting Freeman Tilden’s Interpreting Our Heritage. NCPH. [https://ncph.org/history-at-work/reinterpreting-freeman-tilden/](https://ncph.org/history-at-work/reinterpreting-freeman-tilden/){target="_blank" rel="noopener"}
 
-The 6 Freeman Tilden principles from the book «Interpreting Our Heritage».
+The 6 Freeman Tilden principles from the book [«Interpreting Our Heritage».](https://uncpress.org/book/9780807858677/interpreting-our-heritage/){target="_blank" rel="noopener"}
 
 > 1. Any interpretation that does not somehow relate what is being displayed or described to something within the personality or experience of the visitor will be sterile. (who’s the audience?)
 
