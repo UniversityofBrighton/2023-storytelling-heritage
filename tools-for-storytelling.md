@@ -7,15 +7,18 @@ exercises: 2
 Visual Novel:
 - RenPy: [https://www.renpy.org/](https://www.renpy.org/)(https://www.renpy.org/){target="_blank" rel="noopener"}
 - Tyrano Builder: [https://tyranobuilder.com/](https://tyranobuilder.com){target="_blank" rel="noopener"}
-- Visionare Studio: [https://www.visionaire-studio.net/](https://www.visionaire-studio.net/){target="_blank" rel="noopener"} 
+- Visionare Studio: [https://www.visionaire-studio.net/](https://www.visionaire-studio.net/){target="_blank" rel="noopener"}
+
 Branching narrative:
 - Yarn Spinner: [https://yarnspinner.dev/](https://yarnspinner.dev/){target="_blank" rel="noopener"}
 - Twine: [https://twinery.org/](https://twinery.org/){target="_blank" rel="noopener"}
 - Inklewriter: [https://www.inklestudios.com/inklewriter/](https://www.inklestudios.com/inklewriter/){target="_blank" rel="noopener"}
+
 CMS and WEB
 - Aesop Storyengine: [https://aesopstoryengine.com/](https://aesopstoryengine.com/){target="_blank" rel="noopener"} 
 - Arcgis Storymaps: [https://storymaps.arcgis.com/](https://storymaps.arcgis.com/){target="_blank" rel="noopener"} 
 - Odyssey: [https://cartodb.github.io/odyssey.js/](https://cartodb.github.io/odyssey.js/){target="_blank" rel="noopener"}
+
 360
 - Pano2VR: [https://ggnome.com/pano2vr/](https://ggnome.com/pano2vr/){target="_blank" rel="noopener"}
 - Panoraven: [https://panoraven.com/en](https://panoraven.com/en){target="_blank" rel="noopener"}
@@ -23,6 +26,7 @@ CMS and WEB
 - Kula: [https://kuula.co/](https://kuula.co/){target="_blank" rel="noopener"}
 - Klapty: [https://www.klapty.com/](https://www.klapty.com/){target="_blank" rel="noopener"}
 - Matterport: [https://matterport.com/en-gb](https://matterport.com/en-gb){target="_blank" rel="noopener"}
+
 VR/AR
 - CenarioVR: [https://www.cenariovr.com/](https://www.cenariovr.com/){target="_blank" rel="noopener"}
 - Iris VR: [https://irisvr.com/](https://irisvr.com/){target="_blank" rel="noopener"}
@@ -31,14 +35,17 @@ VR/AR
 - Layar: [https://www.layar.com/](https://www.layar.com/){target="_blank" rel="noopener"}
 - Wikitude Studio: [https://www.wikitude.com/](https://www.wikitude.com/){target="_blank" rel="noopener"}
 - TrainAR: [https://mixality.de/trainar/](https://mixality.de/trainar/){target="_blank" rel="noopener"}
+
 Video
 - Open-Hypervideo: [http://www.open-hypervideo.org/](http://www.open-hypervideo.org/){target="_blank" rel="noopener"}
 - Davinci Resolve: [](){target="_blank" rel="noopener"}
+
 Games and 3D
 - Belender: [https://www.blender.org/](https://www.blender.org/){target="_blank" rel="noopener"}
 - Unreal Engine: [https://www.unrealengine.com/](https://www.unrealengine.com/){target="_blank" rel="noopener"} 
 - Unity: [https://unity.com/](ttps://unity.com/){target="_blank" rel="noopener"}
 - Twinmotion: [https://www.twinmotion.com](https://www.twinmotion.com){target="_blank" rel="noopener"}
+
 ## Digital Storytelling in heritage context, museums and exhibitions
 - Narralive: [https://www.narralive.org/story-maker/](https://www.narralive.org/story-maker/){target="_blank" rel="noopener"}
 - Terrastories: [https://terrastories.app/](https://terrastories.app/){target="_blank" rel="noopener"}
@@ -62,6 +69,7 @@ The following tools leverage the interoperability offered by IIIF:
 - Storiiies Editor: [https://storiiies-editor.cogapp.com/](https://storiiies-editor.cogapp.com/){target="_blank" rel="noopener"} 
 - Strollview: [https://seige.digital/en/strollview/](https://seige.digital/en/strollview/){target="_blank" rel="noopener"}
 - Wax: [https://minicomp.github.io/wax/](https://minicomp.github.io/wax/){target="_blank" rel="noopener"}
+
 ## References for tools:
 
 - Popular IIIF Tools. IIIF. [https://iiif.io/get-started/tools/](https://iiif.io/get-started/tools/){target="_blank" rel="noopener"}
