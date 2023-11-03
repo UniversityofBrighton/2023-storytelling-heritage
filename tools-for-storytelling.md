@@ -5,10 +5,11 @@ exercises: 2
 ---
 
 
-## Storytelling
+## Storytelling in heritage context museums and exhibitions
 - Narrative Storymaker: https://www.narralive.org/story-maker/ 
 - Terrastories: https://terrastories.app/
-- Voyager Story Standalone: https://3d.si.edu/voyager-story-standalone 
+- Voyager Story Standalone: https://3d.si.edu/voyager-story-standalone
+- Curio Publisher: https://www.curiopublisher.com/
 
 The following tools leverage the interoperability offered by IIIF:
 
