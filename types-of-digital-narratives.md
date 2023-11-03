@@ -34,7 +34,7 @@ E-Books, Films, Documentaries, Oral stories (Audio Podcast etc...)
 
 
 
-![eBooks can now be read on a large variety of devices &copy; Per Palmkvist Knudsen from Wikimedia](fig/Fig_10_EReading_devices.jpg){alt='ebooks'}
+![eBooks can now be read on a large variety of devices by Per Palmkvist Knudsen from Wikimedia](fig/Fig_10_EReading_devices.jpg){alt='ebooks'}
 
  
 ![Poster for the 1960 film The Time Machine by Reynold Brown from Wikimedia](fig/FIg_11_Poster_for_the_1960_film_The_Time_Machine.jpg){alt='time machine'}
@@ -55,7 +55,7 @@ E-Books, Films, Documentaries
 
 - Sometimes these experiences need to be repeated to understand the plot, like for example the film [Memento.](https://en.wikipedia.org/wiki/Memento_(film)){target="_blank" rel="noopener"}
  
-![by Diseñadores publicitarios from Wikimedia](fig/Fig_14_Memento.png){alt=''}
+![Memento Title by Diseñadores publicitarios from Wikimedia](fig/Fig_14_Memento.png){alt=''}
 
 
 ### Linear Stories (Interactive)
@@ -66,7 +66,7 @@ E-Books, Websites, Interactive Graphic Novels
 
 The user is not able to choose the direction of the narrative but can interact with the contents. Can skip contents within the narrative.
 
-![&copy; robu_s from AdobeStock](fig/Fig_16_AdobeStock_248815987.jpeg){alt=''}
+![Digital books by robu_s from AdobeStock](fig/Fig_16_AdobeStock_248815987.jpeg){alt=''}
 
 
 ## Non-Linear Stories (Interactive)
@@ -76,7 +76,7 @@ Intercative Films, Videogames, Applications, 360 interactive experiences.
 
 The user can make the choice on how to proceed.
 
-![&copy; Have a nice day from AdobeStock ](fig/FIg_18_AdobeStock_372514621.jpeg){alt='headset'}
+![Futuristic virtual reality VR headset technology watching movie playing video interactive augmented simulation hand control user interface Asian man sofa enjoinment at home entertainment living room by Have a nice day from AdobeStock ](fig/FIg_18_AdobeStock_372514621.jpeg){alt='headset'}
 
 
 
@@ -84,7 +84,7 @@ The user can make the choice on how to proceed.
 >
 - *Comment by Nicolas A. on Twitter*
 
-![&copy; Black Mirror Logo by Mark Simonson and Céréales Killer](fig/Fig_19_Black_Mirror_logo.png){alt='black mirror'}
+![ Black Mirror Logo by Mark Simonson and Céréales Killer from Wekemedia](fig/Fig_19_Black_Mirror_logo.png){alt='black mirror'}
 
 
 ## Different examples of Non-Linear narratives (Interactive)
@@ -100,7 +100,7 @@ Usually, they have a well-defined beginning but can branch in different directio
 - Fandom. Final Fantasy Wiky. Multiple endings. [https://finalfantasy.fandom.com/wiki/Multiple_endings](https://finalfantasy.fandom.com/wiki/Multiple_endings){target="_blank" rel="noopener"} accessed 2-11-2023 
 
 
-![by Hautala and David Levy from Wikimedia](fig/Fig_21_Final_Fantasy_wordmark_TFA.png){alt='final fantasy'}
+![FInal Fantasy Logo by Hautala and David Levy from Wikimedia](fig/Fig_21_Final_Fantasy_wordmark_TFA.png){alt='final fantasy'}
 
  
 ### Branch stories
@@ -113,7 +113,7 @@ These types of stories branch in different directions but usually the have one e
 >
 - Hinton C. (2023). 15 Great Games With Branching Decision-Based Stories. The Gamer. [https://www.thegamer.com/games-witch-branching-stories/#dragon-age-inquisition](https://www.thegamer.com/games-witch-branching-stories/#dragon-age-inquisition){target="_blank" rel="noopener"} accessed 2-11-2023 
 
-![&copy; greyloch from Wikimedia](fig/Fig_23_Dragon_Age_trio_(22660497598).jpg){alt=''}
+![Dragon Age Trio by greyloch from Wikimedia](fig/Fig_23_Dragon_Age_trio_(22660497598).jpg){alt=''}
 
  
 ### Open ended stories
@@ -123,7 +123,7 @@ Can be all of the above combined without a specific or well-defined ending. Some
 ![Open ended stories graph](fig/Fig_23_self_produced_graph.png){alt='graph'}
 
 
-![Screenshot of Assassin’s Creed &copy; Gary Ullah from Wikimedia](fig/Fig_25_Ely_cathedral_(12859673264).jpg){alt='creed'}
+![Ely cathedral by Gary Ullah from Wikimedia](fig/Fig_25_Ely_cathedral_(12859673264).jpg){alt='creed'}
 
 
 ### Player driven stories (Open worlds)
@@ -165,7 +165,7 @@ The 6 Freeman Tilden principles from the book [«Interpreting Our Heritage».](h
 >
 - The Science Presenter [https://thesciencepresenter.wordpress.com/2011/01/24/6-principles-of-heritage-interpretation/](https://thesciencepresenter.wordpress.com/2011/01/24/6-principles-of-heritage-interpretation/){target="_blank" rel="noopener"} accessed 3-11-2023.
 
-![Freeman Tilden.  English:  Wilber "Bud" E. Dutton from Wikimedia](fig/Fig_28_Freeman.jpg){alt=''}
+![Freeman Tilden. by English:  Wilber "Bud" E. Dutton from Wikimedia](fig/Fig_28_Freeman.jpg){alt=''}
 
 How the 6 principles from Tilden fits into storytelling in heritage context.
 
