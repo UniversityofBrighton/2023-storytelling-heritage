@@ -46,7 +46,7 @@ Games and 3D
 - Unity: [https://unity.com/](ttps://unity.com/){target="_blank" rel="noopener"}
 - Twinmotion: [https://www.twinmotion.com](https://www.twinmotion.com){target="_blank" rel="noopener"}
 
-## Storytelling in heritage context museums and exhibitions
+## Digital Storytelling in heritage context, museums and exhibitions
 - Narralive: [https://www.narralive.org/story-maker/](https://www.narralive.org/story-maker/){target="_blank" rel="noopener"}
 - Terrastories: [https://terrastories.app/](https://terrastories.app/){target="_blank" rel="noopener"}
 - Voyager Story Standalone: [https://3d.si.edu/voyager-story-standalone](https://3d.si.edu/voyager-story-standalone){target="_blank" rel="noopener"}
@@ -71,7 +71,7 @@ The following tools leverage the interoperability offered by IIIF:
 - Wax: [https://minicomp.github.io/wax/](https://minicomp.github.io/wax/){target="_blank" rel="noopener"}
 
 
-References:
+## References:
 
 - Popular IIIF Tools. IIIF. [https://iiif.io/get-started/tools/](https://iiif.io/get-started/tools/){target="_blank" rel="noopener"}
 
