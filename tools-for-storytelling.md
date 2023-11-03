@@ -4,10 +4,10 @@ teaching: 10
 exercises: 2
 ---
 ## Digital Storytelling
-
 Visual Novel:
 - RenPy: [https://www.renpy.org/](https://www.renpy.org/)(https://www.renpy.org/){target="_blank" rel="noopener"}
 - Tyrano Builder: [https://tyranobuilder.com/](https://tyranobuilder.com){target="_blank" rel="noopener"}
+- Visionare Studio: [https://www.visionaire-studio.net/](https://www.visionaire-studio.net/){target="_blank" rel="noopener"} 
 
 Branching narrative:
 - Yarn Spinner: [https://yarnspinner.dev/](https://yarnspinner.dev/){target="_blank" rel="noopener"}
@@ -36,14 +36,15 @@ VR/AR
 - Wikitude Studio: [https://www.wikitude.com/](https://www.wikitude.com/){target="_blank" rel="noopener"}
 - TrainAR: [https://mixality.de/trainar/](https://mixality.de/trainar/){target="_blank" rel="noopener"}
 
-
-
-
-
-
 Video
 - Open-Hypervideo: [http://www.open-hypervideo.org/](http://www.open-hypervideo.org/){target="_blank" rel="noopener"}
 - Davinci Resolve: [](){target="_blank" rel="noopener"}
+
+Games and 3D
+- Belender: [https://www.blender.org/](https://www.blender.org/){target="_blank" rel="noopener"}
+- Unreal Engine: [https://www.unrealengine.com/](https://www.unrealengine.com/){target="_blank" rel="noopener"} 
+- Unity: [https://unity.com/](ttps://unity.com/){target="_blank" rel="noopener"}
+- Twinmotion: [https://www.twinmotion.com](https://www.twinmotion.com){target="_blank" rel="noopener"}
 
 ## Storytelling in heritage context museums and exhibitions
 - Narralive: [https://www.narralive.org/story-maker/](https://www.narralive.org/story-maker/){target="_blank" rel="noopener"}
@@ -70,19 +71,11 @@ The following tools leverage the interoperability offered by IIIF:
 - Wax: [https://minicomp.github.io/wax/](https://minicomp.github.io/wax/){target="_blank" rel="noopener"}
 
 
+References:
 
+- Popular IIIF Tools. IIIF. [https://iiif.io/get-started/tools/](https://iiif.io/get-started/tools/){target="_blank" rel="noopener"}
 
-## Games and 3D
-- Belender: [https://www.blender.org/](https://www.blender.org/){target="_blank" rel="noopener"}
-- Unreal Engine: [https://www.unrealengine.com/](https://www.unrealengine.com/){target="_blank" rel="noopener"} 
-- Unity: [https://unity.com/](ttps://unity.com/){target="_blank" rel="noopener"}
-- Twinmotion: [https://www.twinmotion.com](https://www.twinmotion.com){target="_blank" rel="noopener"}
-- Visionare Studio: [https://www.visionaire-studio.net/](https://www.visionaire-studio.net/){target="_blank" rel="noopener"} 
-
-
-> Popular IIIF Tools. IIIF. [https://iiif.io/get-started/tools/](https://iiif.io/get-started/tools/){target="_blank" rel="noopener"}
-
-> M. Massidda, L. Travaglini, S. Pescarin (2023). Interactive Digital Narrative Authoring Tools and Hybrid Experiences in Cultural Heritage: An integrated review[Conference presentation]. EUROGRAPHICS Workshop on Graphics and Cultural Heritage (2023), Lecce, IL, Italy. [https://diglib.eg.org/bitstream/handle/10.2312/gch20231155/031-035.pdf](https://diglib.eg.org/bitstream/handle/10.2312/gch20231155/031-035.pdf)
+- M. Massidda, L. Travaglini, S. Pescarin (2023). Interactive Digital Narrative Authoring Tools and Hybrid Experiences in Cultural Heritage: An integrated review[Conference presentation]. EUROGRAPHICS Workshop on Graphics and Cultural Heritage (2023), Lecce, IL, Italy. [https://diglib.eg.org/bitstream/handle/10.2312/gch20231155/031-035.pdf](https://diglib.eg.org/bitstream/handle/10.2312/gch20231155/031-035.pdf)
 
 
 
