@@ -106,7 +106,7 @@ A definition for Digital Storytelling
 
 Samantha Morra proposes a storytelling cycle
 
-![Basic steps of digital storytelling graph by Samantha Morra, CC BY-NC-SA https://samanthamorra.com/2013/06/05/edudemic-article-on-digital-storytelling/]{target="_blank" rel="noopener"}(fig/Fig_07_DigstoryProcess.png){alt='cyclce'}
+![Basic steps of digital storytelling graph by Samantha Morra, CC BY-NC-SA https://samanthamorra.com/2013/06/05/edudemic-article-on-digital-storytelling/](fig/Fig_07_DigstoryProcess.png){alt='cyclce'}
 
 
 ## Narrative vs Storytelling
