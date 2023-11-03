@@ -34,10 +34,10 @@ E-Books, Films, Documentaries, Oral stories (Audio Podcast etc...)
 
 
 
-![eBooks can now be read on a large variety of devices by Per Palmkvist Knudsen from Wikimedia](fig/Fig_10_EReading_devices.jpg){alt='ebooks'}
+![eBooks can now be read on a large variety of devices by Per Palmkvist Knudsen from Wikimedia Commons ](fig/Fig_10_EReading_devices.jpg){alt='ebooks'}
 
  
-![Poster for the 1960 film The Time Machine by Reynold Brown from Wikimedia](fig/FIg_11_Poster_for_the_1960_film_The_Time_Machine.jpg){alt='time machine'}
+![Poster for the 1960 film The Time Machine by Reynold Brown from Wikimedia Commons ](fig/FIg_11_Poster_for_the_1960_film_The_Time_Machine.jpg){alt='time machine'}
 
 
 ![Audio files](fig/Fig_12_audiograph.png){alt='audio'}
@@ -55,7 +55,7 @@ E-Books, Films, Documentaries
 
 - Sometimes these experiences need to be repeated to understand the plot, like for example the film [Memento.](https://en.wikipedia.org/wiki/Memento_(film)){target="_blank" rel="noopener"}
  
-![Memento Title by Diseñadores publicitarios from Wikimedia](fig/Fig_14_Memento.png){alt=''}
+![Memento Title by Diseñadores publicitarios from Wikimedia Commons](fig/Fig_14_Memento.png){alt=''}
 
 
 ### Linear Stories (Interactive)
@@ -84,7 +84,7 @@ The user can make the choice on how to proceed.
 >
 - *Comment by Nicolas A. on Twitter*
 
-![ Black Mirror Logo by Mark Simonson and Céréales Killer from Wekemedia](fig/Fig_19_Black_Mirror_logo.png){alt='black mirror'}
+![ Black Mirror Logo by Mark Simonson and Céréales Killer from Wikimedia Commons](fig/Fig_19_Black_Mirror_logo.png){alt='black mirror'}
 
 
 ## Different examples of Non-Linear narratives (Interactive)
@@ -100,7 +100,7 @@ Usually, they have a well-defined beginning but can branch in different directio
 - Fandom. Final Fantasy Wiky. Multiple endings. [https://finalfantasy.fandom.com/wiki/Multiple_endings](https://finalfantasy.fandom.com/wiki/Multiple_endings){target="_blank" rel="noopener"} accessed 2-11-2023 
 
 
-![FInal Fantasy Logo by Hautala and David Levy from Wikimedia](fig/Fig_21_Final_Fantasy_wordmark_TFA.png){alt='final fantasy'}
+![FInal Fantasy Logo by Hautala and David Levy from Wikimedia Commons](fig/Fig_21_Final_Fantasy_wordmark_TFA.png){alt='final fantasy'}
 
  
 ### Branch stories
@@ -113,7 +113,7 @@ These types of stories branch in different directions but usually the have one e
 >
 - Hinton C. (2023). 15 Great Games With Branching Decision-Based Stories. The Gamer. [https://www.thegamer.com/games-witch-branching-stories/#dragon-age-inquisition](https://www.thegamer.com/games-witch-branching-stories/#dragon-age-inquisition){target="_blank" rel="noopener"} accessed 2-11-2023 
 
-![Dragon Age Trio by greyloch from Wikimedia](fig/Fig_23_Dragon_Age_trio_(22660497598).jpg){alt=''}
+![Dragon Age Trio by greyloch from Wikimedia Commons](fig/Fig_23_Dragon_Age_trio_(22660497598).jpg){alt=''}
 
  
 ### Open ended stories
@@ -123,7 +123,7 @@ Can be all of the above combined without a specific or well-defined ending. Some
 ![Open ended stories graph](fig/Fig_23_self_produced_graph.png){alt='graph'}
 
 
-![Ely cathedral by Gary Ullah from Wikimedia](fig/Fig_25_Ely_cathedral_(12859673264).jpg){alt='creed'}
+![Ely cathedral by Gary Ullah from Wikimedia Commons](fig/Fig_25_Ely_cathedral_(12859673264).jpg){alt='creed'}
 
 
 ### Player driven stories (Open worlds)
@@ -165,7 +165,7 @@ The 6 Freeman Tilden principles from the book [«Interpreting Our Heritage».](h
 >
 - The Science Presenter [https://thesciencepresenter.wordpress.com/2011/01/24/6-principles-of-heritage-interpretation/](https://thesciencepresenter.wordpress.com/2011/01/24/6-principles-of-heritage-interpretation/){target="_blank" rel="noopener"} accessed 3-11-2023.
 
-![Freeman Tilden. by English:  Wilber "Bud" E. Dutton from Wikimedia](fig/Fig_28_Freeman.jpg){alt=''}
+![Freeman Tilden. by English:  Wilber "Bud" E. Dutton from Wikimedia Commons](fig/Fig_28_Freeman.jpg){alt=''}
 
 How the 6 principles from Tilden fits into storytelling in heritage context.
 
