@@ -149,9 +149,9 @@ Examples:
 - Horrocks A. (2019). Reinterpreting Freeman Tilden’s Interpreting Our Heritage. NCPH. [https://ncph.org/history-at-work/reinterpreting-freeman-tilden/](https://ncph.org/history-at-work/reinterpreting-freeman-tilden/){target="_blank" rel="noopener"}
 
 The 6 Freeman Tilden principles from the book «Interpreting Our Heritage».
->
+
 > 1. Any interpretation that does not somehow relate what is being displayed or described to something within the personality or experience of the visitor will be sterile. (who’s the audience?)
->2. Information, as such, is not Interpretation. Interpretation is revelation based upon information. But they are entirely different things. However all interpretation includes information. (where’s the science?)
+> 2. Information, as such, is not Interpretation. Interpretation is revelation based upon information. But they are entirely different things. However all interpretation includes information. (where’s the science?)
 > 3. Interpretation is an art, which combines many arts, whether the materials presented are scientific, historical or architectural. Any art is in some degree teachable.
 > 4. The chief aim of Interpretation is not instruction, but provocation. (what’s the story?)
 > 5. Interpretation should aim to present a whole rather than a part, and must address itself to the whole man rather than any phase. (what’s the story?)
