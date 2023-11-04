@@ -22,7 +22,7 @@ exercises: 2
 
 
 ## Domains of Interests and definitions 
-There are  three main domains explored in this presentation and, although in this istance Storytelling is used to comunicate science the act of telling stories about scientific research can be consider as an art.
+There are  three main domains explored in this presentation and, although in this istance Storytelling is used to comunicate science, the act of telling stories about scientific research can be consider as an art.
 
 Storytelling  
 - The art of telling stories in different formats (Oral, Films, Theatre, Dance, Writing, Multimedia, etc.. and any of these combined) 
