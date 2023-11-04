@@ -12,7 +12,7 @@ In addition to the common graphic tools for 2d/3d visualisation such as the[Adob
 
 Visual Novel
 
-- RenPy: [https://www.renpy.org/](https://www.renpy.org/)(https://www.renpy.org/){target="_blank" rel="noopener"}
+- RenPy: [https://www.renpy.org/](https://www.renpy.org/){target="_blank" rel="noopener"}
 - Tyrano Builder: [https://tyranobuilder.com/](https://tyranobuilder.com){target="_blank" rel="noopener"}
 
 
@@ -76,7 +76,7 @@ Video and interactive video
 - Adventure Game Studio [https://www.adventuregamestudio.co.uk/](https://www.adventuregamestudio.co.uk/){target="_blank" rel="noopener"}
 
 ## Digital Storytelling in heritage context, museums and exhibitions
-This list of authoring tools have been developed specifically by and for cultural institutions to facilitate the process of digital storytelling in heritage context. As we have seen before the nature of this type of data is mulitdimensional, these tools some more, some less, leverage the types of data such as images, text, 3d objects/environments, 360 panoramas and video. For the same reason of the one above, this list will have to be constantly updated.
+This list of authoring tools have been developed specifically by and for cultural institutions to facilitate the process of digital storytelling in heritage context. As we have seen before, the nature of these type of data is mulitdimensional, these tools some more, some less, leverage these types of data (images, text, 3d objects/environments, 360 panoramas and video). For the same reason as above, this list will have to be constantly updated.
 
 - Narralive: [https://www.narralive.org/story-maker/](https://www.narralive.org/story-maker/){target="_blank" rel="noopener"}
 - Terrastories: [https://terrastories.app/](https://terrastories.app/){target="_blank" rel="noopener"}
