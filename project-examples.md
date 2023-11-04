@@ -23,8 +23,12 @@ You can find more information on this video:
 ## Interactive Video
 
 Italia Terremota:
+
 > This interactive documentary combines 3D visualisation and multi-modal storytelling to tell the story of Senerchia terremotata, that is, the earthquake that devastated the Irpinia region (South Italy) in 1980.
+ - [Storylab (2017)](https://storylabresearch.com/projects/italia-terremotata/){target="_blank" rel="noopener"}
+
 More info on the page of the project here: [https://www.essex.ac.uk/research-projects/italia-terremotata; https://storylabresearch.com/projects/italia-terremotata/](https://www.essex.ac.uk/research-projects/italia-terremotata; https://storylabresearch.com/projects/italia-terremotata/){target="_blank" rel="noopener"}
+
 The full published article can be found here: [https://www.tandfonline.com/doi/abs/10.1080/1472586X.2022.2102539](https://www.tandfonline.com/doi/abs/10.1080/1472586X.2022.2102539){target="_blank" rel="noopener"}
 
 ![[Italia Terremotata by Story Lab 2017](https://storylabresearch.com/projects/italia-terremotata/){target="_blank" rel="noopener"}](fig/Fig_36_storylabresearch_italia_terremotata3Dcloud_02.jpg){alt='Terramota'}
