@@ -8,7 +8,7 @@ exercises: 2
 
 
 ## Digital Storytelling
-In addition to the common graphic tools for 2d/3d visualisation such as the [Adobe Creative family](https://www.adobe.com/uk/){target="_blank" rel="noopener"} and the Open Source corrispondents such as [Gimp](https://www.gimp.org/){target="_blank" rel="noopener"}for raster images, [Inkscape](https://inkscape.org/){target="_blank" rel="noopener"} for vector images and  [Blender](https://www.blender.org/){target="_blank" rel="noopener"} for 3D graphics, in this section you can find a list of the most used tools in the domain of digital storytelling. The list is not completed and probably it will never be because there are always new tools in development every year. To the best of our knowledge this list will direct the user to the choice of visual tool for digital storytelling.
+In addition to the common graphic tools for 2d/3d visualisation such as the [Adobe Creative family](https://www.adobe.com/uk/){target="_blank" rel="noopener"} and the Open Source corrispondents such as [Gimp](https://www.gimp.org/){target="_blank" rel="noopener"}for raster images, [Inkscape](https://inkscape.org/){target="_blank" rel="noopener"} for vector images and  [Blender](https://www.blender.org/){target="_blank" rel="noopener"} for 3D graphics, in this section you can find a list of the most used tools in the domain of digital storytelling. The list is not completed and probably it will never be because there are always new tools in development every year. To the best of our knowledge this list will direct the user to the right choice of a visual tool to create stories in cultural institution.
 
 Visual Novel
 
