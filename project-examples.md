@@ -7,11 +7,17 @@ exercises: 2
 
 ## Interactive audio with real objects
 
-The reading glove Story embedded on real, physical objects that can be played with and moved around.
+The reading glove is has stories embedded on physical objects that can be played when touching the chosen artefact.
+In this project Karen Tanenbaum explores the use of wearable technology to create a unique storytelling environmet (Axtel, 2012).
+ - Axtell, S. (2012) The Reading Glove engages senses and objects to tell a story. [Radar O'Relly.](http://radar.oreilly.com/2012/03/reading-glove-sensors-reading-experience.html?utm_source=dlvr.it&utm_medium=tumblr&utm_campaign=Feed%3A%20oreilly%2Fradar%2Fatom%20%28O%27Reilly%20Radar%29)
+
+
+You can find more information on this video:
 [https://www.youtube.com/watch?v=UE6vllYI5RI&t=1s](https://www.youtube.com/watch?v=UE6vllYI5RI&t=1s)
- 
-![[The Reading Glove](http://radar.oreilly.com/2012/03/reading-glove-sensors-reading-experience.html?utm_source=dlvr.it&utm_medium=tumblr&utm_campaign=Feed%3A%20oreilly%2Fradar%2Fatom%20%28O%27Reilly%20Radar%29 
-) ](fig/Fig_35_readingglove.PNG){alt='reading glove'}
+
+
+![[Tablet top & Objects by Tess and Karen Tanenbaum. On Flicker](https://www.flickr.com/photos/jtanenbaum/sets/72157626471260917/with/5662869791/
+)]{target="_blank" rel="noopener"}(fig/Fig_35_readingglove.PNG){alt='reading glove'}
 
  
 ## Interactive Video
