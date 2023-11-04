@@ -9,7 +9,7 @@ exercises: 2
 
 The reading glove is has stories embedded on physical objects that can be played when touching the chosen artefact.
 In this project Karen Tanenbaum explores the use of wearable technology to create a unique storytelling environmet (Axtel, 2012).
- - Axtell, S. (2012) The Reading Glove engages senses and objects to tell a story. [Radar O'Relly.](http://radar.oreilly.com/2012/03/reading-glove-sensors-reading-experience.html?utm_source=dlvr.it&utm_medium=tumblr&utm_campaign=Feed%3A%20oreilly%2Fradar%2Fatom%20%28O%27Reilly%20Radar%29){target="_blank" rel="noopener"}
+ - Axtell, S. (2012). The Reading Glove engages senses and objects to tell a story. [Radar O'Relly.](http://radar.oreilly.com/2012/03/reading-glove-sensors-reading-experience.html?utm_source=dlvr.it&utm_medium=tumblr&utm_campaign=Feed%3A%20oreilly%2Fradar%2Fatom%20%28O%27Reilly%20Radar%29){target="_blank" rel="noopener"}
 
 
 You can find more information on this video:
@@ -22,10 +22,10 @@ You can find more information on this video:
  
 ## Interactive Video
 
-Italia Terremota:
+Italia Terremotata
 
 > This interactive documentary combines 3D visualisation and multi-modal storytelling to tell the story of Senerchia terremotata, that is, the earthquake that devastated the Irpinia region (South Italy) in 1980.
- - [Storylab (2017)](https://storylabresearch.com/projects/italia-terremotata/){target="_blank" rel="noopener"}
+ - [Storylab. (2017). Italia Terremotata. Storylab ](https://storylabresearch.com/projects/italia-terremotata/){target="_blank" rel="noopener"}
 
 More info on the page of the project here: [https://www.essex.ac.uk/research-projects/italia-terremotata; https://storylabresearch.com/projects/italia-terremotata/](https://www.essex.ac.uk/research-projects/italia-terremotata; https://storylabresearch.com/projects/italia-terremotata/){target="_blank" rel="noopener"}
 
