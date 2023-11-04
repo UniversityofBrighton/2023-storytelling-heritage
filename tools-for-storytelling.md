@@ -3,7 +3,7 @@ title: 'Tools and platforms for Storytelling'
 teaching: 10
 exercises: 2
 ---
-![Vintage woodworking tools on the workbench by stokkete from Adobe Stock](fig/Fig_36bKusunda.jpg){alt='Kusunda'}
+![Vintage woodworking tools on the workbench by stokkete from Adobe Stock](fig/Fig_34b_AdobeStock_178578979.jpeg){alt='tools'}
 
 
 
