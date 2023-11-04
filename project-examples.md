@@ -7,7 +7,7 @@ exercises: 2
 
 ## Interactive audio with real objects
 
-The reading glove is has stories embedded on physical objects that can be played when touching the chosen artefact.
+The reading glove was a project that explores stories embedded on physical objects that can be played when touching the chosen artefact.
 In this project Karen Tanenbaum explores the use of wearable technology to create a unique storytelling environmet (Axtel, 2012).
  - Axtell, S. (2012). The Reading Glove engages senses and objects to tell a story. [Radar O'Relly.](http://radar.oreilly.com/2012/03/reading-glove-sensors-reading-experience.html?utm_source=dlvr.it&utm_medium=tumblr&utm_campaign=Feed%3A%20oreilly%2Fradar%2Fatom%20%28O%27Reilly%20Radar%29){target="_blank" rel="noopener"}
 
@@ -24,15 +24,22 @@ You can find more information on this video:
 
 Italia Terremotata
 
-> This interactive documentary combines 3D visualisation and multi-modal storytelling to tell the story of Senerchia terremotata, that is, the earthquake that devastated the Irpinia region (South Italy) in 1980.
- - [Storylab. (2017). Italia Terremotata. Storylab ](https://storylabresearch.com/projects/italia-terremotata/){target="_blank" rel="noopener"}
+> "This interactive documentary combines 3D visualisation and multi-modal storytelling to tell the story of Senerchia terremotata, that is, the earthquake that devastated the Irpinia region (South Italy) in 1980."
+ - [A.R.U. StoryLab. (2017). Italia Terremotata. Storylab ](https://storylabresearch.com/projects/italia-terremotata/){target="_blank" rel="noopener"}
 
 More info on the page of the project here: [https://www.essex.ac.uk/research-projects/italia-terremotata; https://storylabresearch.com/projects/italia-terremotata/](https://www.essex.ac.uk/research-projects/italia-terremotata; https://storylabresearch.com/projects/italia-terremotata/){target="_blank" rel="noopener"}
 
 The full published article can be found here: [https://www.tandfonline.com/doi/abs/10.1080/1472586X.2022.2102539](https://www.tandfonline.com/doi/abs/10.1080/1472586X.2022.2102539){target="_blank" rel="noopener"}
 
-![[Italia Terremotata by Story Lab 2017](https://storylabresearch.com/projects/italia-terremotata/){target="_blank" rel="noopener"}](fig/Fig_36_storylabresearch_italia_terremotata3Dcloud_02.jpg){alt='Terramota'}
+![[Italia Terremotata by A.R.U. StoryLab 2017](https://storylabresearch.com/projects/italia-terremotata/){target="_blank" rel="noopener"}](fig/Fig_36_storylabresearch_italia_terremotata3Dcloud_02.jpg){alt='Terramota'}
 
+## Interactive mixes medias (2d/3d and video)
+Reviving Kusunda
+
+> The Kusunda Project is a ground-breaking interdisciplinary collaboration between academic researchers and artistic expression, aimed at exploring the integrated use of multimodal storytelling and immersive visualisation for the revitalisation of the endangered heritage and language of the Kusunda Indigenous community in Nepal.
+ - [A.R.U. StoryLab. (2017). Reviving Kusunda. Storylab ](https://storylabresearch.com/projects/kusunda/){target="_blank" rel="noopener"}
+
+More info on the page of the project here: [https://storylabresearch.com/projects/kusunda/](https://storylabresearch.com/projects/kusunda/){target="_blank" rel="noopener"}
 
 ## Multi-engagement project
 
