@@ -87,7 +87,7 @@ The following tools leverage the interoperability offered by IIIF:
 - Strollview: [https://seige.digital/en/strollview/](https://seige.digital/en/strollview/){target="_blank" rel="noopener"}
 - Wax: [https://minicomp.github.io/wax/](https://minicomp.github.io/wax/){target="_blank" rel="noopener"}
 
-## References for tools:
+References:
 
 - Popular IIIF Tools. IIIF. [https://iiif.io/get-started/tools/](https://iiif.io/get-started/tools/){target="_blank" rel="noopener"}
 
