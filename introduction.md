@@ -36,7 +36,7 @@ Digital Storytelling
 Digital Storytelling in Heritage Interpretation 
 - The art of telling stories in digital formats in heritage contexts
 
-![Storytelling domains](fig/Fig_01_self_produced_graph.png){alt='' width=250 height=250}
+![Storytelling domains](fig/Fig_01_self_produced_graph.png){alt='' width=450 height=450}
 
 ## Storytelling as human condition
 As humans we communicate with stories. When we use the a narrative structure to communicate concepts we connect with our audience not only on a presentation level but also on intimate an personal level, because the audience can bond with the caracthers, the objects or the environments of the story.
