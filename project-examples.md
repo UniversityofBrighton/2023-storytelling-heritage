@@ -5,7 +5,7 @@ exercises: 2
 ---
 
 
-## Interactive audio
+## Interactive audio with real objects
 
 The reading glove Story embedded on real, physical objects that can be played with and moved around.
 [https://www.youtube.com/watch?v=UE6vllYI5RI&t=1s](https://www.youtube.com/watch?v=UE6vllYI5RI&t=1s)
