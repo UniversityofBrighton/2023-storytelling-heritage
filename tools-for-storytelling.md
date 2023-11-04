@@ -8,10 +8,13 @@ exercises: 2
 
 
 ## Digital Storytelling
+In addiction to general basic graphic tools for 2d visualization such as the Adobe Creative family [https://www.adobe.com/uk/](https://www.adobe.com/uk/){target="_blank" rel="noopener"} and the Open Source corrispondent such as [Gimp](https://www.gimp.org/){target="_blank" rel="noopener"}for raster images, [Inkscape] (https://inkscape.org/){target="_blank" rel="noopener"} for vector images and Blender [https://www.blender.org/](https://www.blender.org/){target="_blank" rel="noopener"} for 3D graphics, in this section you can find a list of the most used tools in the domain of digital storytelling. The list is not completed and probably never will because there are always new tools developed every year. To the best of our knowledge this list will facilitate the user for starting to get aquinted with visual tool for digital storytelling.
+
 Visual Novel
 
 - RenPy: [https://www.renpy.org/](https://www.renpy.org/)(https://www.renpy.org/){target="_blank" rel="noopener"}
 - Tyrano Builder: [https://tyranobuilder.com/](https://tyranobuilder.com){target="_blank" rel="noopener"}
+
 
 
 Branching narrative
@@ -22,11 +25,13 @@ Branching narrative
 - Playfic: [https://playfic.com/](https://playfic.com/){target="_blank" rel="noopener"}
 
 
+
 CMS and WEB
 
 - Aesop Storyengine: [https://aesopstoryengine.com/](https://aesopstoryengine.com/){target="_blank" rel="noopener"} 
 - Arcgis Storymaps: [https://storymaps.arcgis.com/](https://storymaps.arcgis.com/){target="_blank" rel="noopener"} 
 - Odyssey: [https://cartodb.github.io/odyssey.js/](https://cartodb.github.io/odyssey.js/){target="_blank" rel="noopener"}
+
 
 
 360
@@ -37,6 +42,7 @@ CMS and WEB
 - Kula: [https://kuula.co/](https://kuula.co/){target="_blank" rel="noopener"}
 - Klapty: [https://www.klapty.com/](https://www.klapty.com/){target="_blank" rel="noopener"}
 - Matterport: [https://matterport.com/en-gb](https://matterport.com/en-gb){target="_blank" rel="noopener"}
+
 
 
 VR/AR
@@ -50,15 +56,17 @@ VR/AR
 - TrainAR: [https://mixality.de/trainar/](https://mixality.de/trainar/){target="_blank" rel="noopener"}
 
 
-Video
+
+Video and interactive video
 
 - Open-Hypervideo: [http://www.open-hypervideo.org/](http://www.open-hypervideo.org/){target="_blank" rel="noopener"}
-- Davinci Resolve: [](){target="_blank" rel="noopener"}
+- Davinci Resolve: [https://www.blackmagicdesign.com/uk/products/davinciresolve](https://www.blackmagicdesign.com/uk/products/davinciresolve){target="_blank" rel="noopener"}
 
 
-2d/3d Games and 3D real-time film
 
-- Belender: [https://www.blender.org/](https://www.blender.org/){target="_blank" rel="noopener"}
+2d/3d Games and 3D real-time filming
+
+- Blender: [https://www.blender.org/](https://www.blender.org/){target="_blank" rel="noopener"}
 - Unreal Engine: [https://www.unrealengine.com/](https://www.unrealengine.com/){target="_blank" rel="noopener"} 
 - Unity: [https://unity.com/](ttps://unity.com/){target="_blank" rel="noopener"}
 - Twinmotion: [https://www.twinmotion.com](https://www.twinmotion.com){target="_blank" rel="noopener"}
@@ -68,6 +76,8 @@ Video
 - Adventure Game Studio [https://www.adventuregamestudio.co.uk/](https://www.adventuregamestudio.co.uk/){target="_blank" rel="noopener"}
 
 ## Digital Storytelling in heritage context, museums and exhibitions
+This list of authoring tools have been developed specifically by and for cultural institutions to facilitate the process of digital storytelling in heritage context. As we have seen before the nature of this type of data is mulitdimensional, these tools some more, some less, leverage the types of data such as images, text, 3d objects/environments, 360 panoramas and video. For the same reason of the one above, this list will have to be constantly updated.
+
 - Narralive: [https://www.narralive.org/story-maker/](https://www.narralive.org/story-maker/){target="_blank" rel="noopener"}
 - Terrastories: [https://terrastories.app/](https://terrastories.app/){target="_blank" rel="noopener"}
 - Voyager Story Standalone: [https://3d.si.edu/voyager-story-standalone](https://3d.si.edu/voyager-story-standalone){target="_blank" rel="noopener"}
