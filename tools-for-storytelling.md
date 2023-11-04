@@ -1,5 +1,5 @@
 ---
-title: 'Tools and platforms for Storytelling'
+title: 'Tools and platforms for Digital Storytelling'
 teaching: 10
 exercises: 2
 ---
