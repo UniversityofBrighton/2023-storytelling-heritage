@@ -51,7 +51,7 @@ More info on the page of the project here: [https://storylabresearch.com/project
 ## Multi-engagement project
 
 Emotive: EU-funded research project that works from the premise that cultural sites are highly emotional places.
-[https://emotiveproject.eu/pages/summary/index.html](https://emotiveproject.eu/pages/summary/index.html) 
+[https://emotiveproject.eu/pages/summary/index.html](https://emotiveproject.eu/pages/summary/index.html){target="_blank" rel="noopener"} 
  
 ![Screenshot from [Emotive project booklet](https://emotiveproject.eu/wp-content/uploads/2019/10/EMOTIVE-booklet-2019-web.pdf)](fig/Fig_37_EMOTIVE-GRID-7-small-01-1000x710.png){alt='emotive'}
 
