@@ -35,7 +35,7 @@ Italia Terremotata
 
 The full published article can be found here: [https://www.tandfonline.com/doi/abs/10.1080/1472586X.2022.2102539](https://www.tandfonline.com/doi/abs/10.1080/1472586X.2022.2102539){target="_blank" rel="noopener"}
 
-![[Italia Terremotata by A.R.U. StoryLab 2017](https://storylabresearch.com/projects/italia-terremotata/){target="_blank" rel="noopener"}](fig/Fig_36_storylabresearch_italia_terremotata3Dcloud_02.jpg){alt='Terramota'}
+![Italia Terremotata by A.R.U. [StoryLab 2017](https://storylabresearch.com/projects/italia-terremotata/){target="_blank" rel="noopener"}](fig/Fig_36_storylabresearch_italia_terremotata3Dcloud_02.jpg){alt='Terramota'}
 
 ## Immersive mixed media (2d/3d and video).
 Reviving Kusunda
