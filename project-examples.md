@@ -29,7 +29,9 @@ Italia Terremotata
 
  - [A.R.U. StoryLab. (2017). Italia Terremotata. Storylab](https://storylabresearch.com/projects/italia-terremotata/){target="_blank" rel="noopener"}
 
-More info on the page of the project here: [https://www.essex.ac.uk/research-projects/italia-terremotata; https://storylabresearch.com/projects/italia-terremotata/](https://www.essex.ac.uk/research-projects/italia-terremotata){target="_blank" rel="noopener"}
+>This experimental film uses a place-centred approach and aims to define the ‘sense of place’ by combining intangible and tangible aspects of heritage: it originates from video-interviews collected during an ethnographic study about post-earthquake community resilience in Italy and integrates them with a 3D-replica of the old town created using laser-scanner technology, as well as 360° panoramas of both the old and new Senerchia.
+
+- [A.R.U. StoryLab. (2017). Italia Terremotata. Storylab](https://www.essex.ac.uk/research-projects/italia-terremotata){target="_blank" rel="noopener"}
 
 The full published article can be found here: [https://www.tandfonline.com/doi/abs/10.1080/1472586X.2022.2102539](https://www.tandfonline.com/doi/abs/10.1080/1472586X.2022.2102539){target="_blank" rel="noopener"}
 
