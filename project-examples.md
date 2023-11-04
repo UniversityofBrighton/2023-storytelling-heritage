@@ -26,10 +26,12 @@ You can find more information on this video:
 Italia Terremotata
 
 > "This interactive documentary combines 3D visualisation and multi-modal storytelling to tell the story of Senerchia terremotata, that is, the earthquake that devastated the Irpinia region (South Italy) in 1980."
-- [A.R.U. StoryLab. (2017). Italia Terremotata. Storylab](https://storylabresearch.com/projects/italia-terremotata/){target="_blank" rel="noopener"}
+
+ - [A.R.U. StoryLab. (2017). Italia Terremotata. Storylab](https://storylabresearch.com/projects/italia-terremotata/){target="_blank" rel="noopener"}
 
 > This experimental film uses a place-centred approach and aims to define the ‘sense of place’ by combining intangible and tangible aspects of heritage: it originates from video-interviews collected during an ethnographic study about post-earthquake community resilience in Italy and integrates them with a 3D-replica of the old town created using laser-scanner technology, as well as 360° panoramas of both the old and new Senerchia.
-- [Di Franco, D. G. A. (2017). Italia Terremotata. University of Essex](https://www.essex.ac.uk/research-projects/italia-terremotata){target="_blank" rel="noopener"}
+
+ - [Di Franco, D. G. A. (2017). Italia Terremotata. University of Essex](https://www.essex.ac.uk/research-projects/italia-terremotata){target="_blank" rel="noopener"}
 
 The full published article can be found here: [https://www.tandfonline.com/doi/abs/10.1080/1472586X.2022.2102539](https://www.tandfonline.com/doi/abs/10.1080/1472586X.2022.2102539){target="_blank" rel="noopener"}
 
@@ -39,6 +41,7 @@ The full published article can be found here: [https://www.tandfonline.com/doi/a
 Reviving Kusunda
 
 > The Kusunda Project is a ground-breaking interdisciplinary collaboration between academic researchers and artistic expression, aimed at exploring the integrated use of multimodal storytelling and immersive visualisation for the revitalisation of the endangered heritage and language of the Kusunda Indigenous community in Nepal.
+
  - [A.R.U. StoryLab. (2017). Reviving Kusunda. Storylab](https://storylabresearch.com/projects/kusunda/){target="_blank" rel="noopener"}
 
 More info on the page of the project here: [https://storylabresearch.com/projects/kusunda/](https://storylabresearch.com/projects/kusunda/){target="_blank" rel="noopener"}
@@ -56,9 +59,9 @@ Emotive: EU-funded research project that works from the premise that cultural si
 ## Online multidimensional exploration tool
 
 Tapestry-Cyark: Platform for building and telling place-based stories on web and mobile devices".
-[https://tapestry.cyark.org/](https://tapestry.cyark.org/) 
+[https://tapestry.cyark.org/](https://tapestry.cyark.org/){target="_blank" rel="noopener"} 
 
-![Screenshot [Tapesrty Cyark](https://tapestry.cyark.org/ )](fig/Fig_38_CyarkTapestry.png){alt='Cyark'}
+![Screenshot [Tapestry Cyark](https://tapestry.cyark.org/ ){target="_blank" rel="noopener"}](fig/Fig_38_CyarkTapestry.png){alt='Cyark'}
 
 
 
