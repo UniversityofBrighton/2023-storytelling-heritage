@@ -25,9 +25,11 @@ exercises: 2
 Storytelling  
 - The art of telling stories in different formats (Oral, Films, Theatre, Dance, Writing, Multimedia, etc.. and any of these combined) 
 Storytelling for Heritage Interpretation  
-- The art of interpreting Heritage by telling stories 
+- The art of interpreting Heritage by telling stories
+
 Digital Storytelling 
 - The art of telling stories in digital formats 
+
 Digital Storytelling in Heritage Interpretation 
 - The art of telling stories in digital formats in heritage contexts
 
