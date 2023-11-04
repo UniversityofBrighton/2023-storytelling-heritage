@@ -85,7 +85,7 @@ This list of authoring tools have been developed specifically by and for cultura
 - Aton Framework: [https://osiris.itabc.cnr.it/aton/](https://osiris.itabc.cnr.it/aton/){target="_blank" rel="noopener"}
 - CHESS CAT: [https://chessexperience.eu/](https://chessexperience.eu/){target="_blank" rel="noopener"}
 
-The following tools leverage the interoperability offered by IIIF:
+The following tools leverage the interoperability offered by [IIIF](https://iiif.io/){target="_blank" rel="noopener"}:
 
 - Recogito: [https://recogito.pelagios.org/](https://recogito.pelagios.org/){target="_blank" rel="noopener"}
 - Digital Mappa:[https://www.digitalmappa.org/](https://www.digitalmappa.org/){target="_blank" rel="noopener"}
