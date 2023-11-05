@@ -46,7 +46,7 @@ As humans we communicate with stories. When we use the a narrative structure to 
 - Tolisano, S.R. (2018). Digital Storytelling: What it is… And… What it is NOT. Langwitches.[https://langwitches.org/blog/2015/08/18/digital-storytelling-what-it-is-and-what-it-is-not/](https://langwitches.org/blog/2015/08/18/digital-storytelling-what-it-is-and-what-it-is-not/){target="_blank" rel="noopener"}
 
 
-![US Embassy from New Zealand by US Embassy New Zealand from Wikimedia Commons](Fig_02_Storytelling_(29663292122).jpg){alt='words'}
+![US Embassy from New Zealand by US Embassy New Zealand from Wikimedia Commons](Fig_02_Storytelling_(29663292122).jpg){alt=''}
 
 
 > Storytelling "is not just entertainment. Telling stories is a fundamental part of being human".
@@ -54,7 +54,7 @@ As humans we communicate with stories. When we use the a narrative structure to 
 - Hennebury, C. (2020). Storytelling is not just entertainment. It's a fundamental part of being human. For CBC.[https://www.cbc.ca/news/canada/newfoundland-labrador/storytelling-is-human-1.5511027](https://www.cbc.ca/news/canada/newfoundland-labrador/storytelling-is-human-1.5511027 ){target="_blank" rel="noopener"}
 
 
-![Cute girl reading book Teddy bear.​ By Volkovslava under Standard License from Adobe Stock​](Fig_03_AdobeStock_93739379.jpeg){alt='words'}
+![Cute girl reading book Teddy bear.​ By Volkovslava under Standard License from Adobe Stock​](Fig_03_AdobeStock_93739379.jpeg){alt=''}
 
 
 ## What is storytelling?
