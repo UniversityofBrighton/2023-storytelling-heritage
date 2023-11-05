@@ -134,6 +134,7 @@ This type of stories permit the user to roam free around an established environm
 
 ![Player driven stories graph (Open world) graph](fig/Fig_26_true-open-world-map.jpg){alt='graph'}
 
+>"Open-world describes a virtual geography and game mechanic within which a narrative can be placed (or not.) In an open-world game, a player can freely roam a large setting with distinct sub-locations. So, the player has a certain degree of freedom in how and in which order they approach the gameplay objectives. These are usually linked to specific points on the map.​"
 > "People sometimes think "open-world" means an absence of narrative, just complete freedom of choice. But that’s not necessarily the case. In fact, it rarely is."
 >
 - Alfieri L. of Raven Sun Creative. The past, present & future of interactive narrative storytelling, part 2: back to the roots. [https://blooloop.com/theme-park/opinion/interactive-storytelling-part-2-roots/#:~:text=People%20sometimes%20think%20%E2%80%9Copen%2Dworld,be%20placed%20(or%20not.)](https://blooloop.com/theme-park/opinion/interactive-storytelling-part-2-roots/#:~:text=People%20sometimes%20think%20%E2%80%9Copen%2Dworld,be%20placed%20(or%20not.)){target="_blank" rel="noopener"}
