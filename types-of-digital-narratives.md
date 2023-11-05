@@ -4,6 +4,9 @@ teaching: 10
 exercises: 2
 ---
 
+> “…the recent decades of this century have seen a tremendous development of diverse theories of narrative, so many and so diverse that it makes the mind ache to think of them all.”​
+>
+- Miller, J.H., 1990. “Narrative”. In Lentricchia, F. & McLaughlin,T. eds., Critical Terms for Literary Study. Chicago, Illinois: The University of Chicago Press, pp. 66- 79.​
 
 ## Types of digital narratives 
 
