@@ -96,7 +96,7 @@ Interactive Films, Videogames, Interactive applications.
 ### Multiple-ending stories
 Usually, they have a well-defined beginning but can branch in different directions with the choice of different ending.
 
-![Multiple ending stories graph](fig/Fig_20_5-A-simplified-structure-of-a-branching-narrati.png){alt='graph'}
+![Zheng, Y. (2018). The Story, the Touchscreen, and the Child: How Narrative Apps Tell Stories [http://theses.gla.ac.uk/9074/](http://theses.gla.ac.uk/9074/){target="_blank" rel="noopener"}[(https://www.researchgate.net/publication/325057348_The_Story_the_Touchscreen_and_the_Child_How_Narrative_Apps_Tell_Stories_httpthesesglaacuk9074)](https://www.researchgate.net/publication/325057348_The_Story_the_Touchscreen_and_the_Child_How_Narrative_Apps_Tell_Stories_httpthesesglaacuk9074){target="_blank" rel="noopener"}](fig/Fig_20_5-A-simplified-structure-of-a-branching-narrati.png){alt='graph'}
 
 > "Some games in the **Final Fantasy** series have multiple or secret endings, the ending depending on the player's actions taken during the game. These can be as simple as minor adjustments to the final story scenes to reflect variable outcomes earlier in the game, or as drastic as entirely different conclusions to the story"
 >
