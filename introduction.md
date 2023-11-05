@@ -126,9 +126,5 @@ Samantha Morra proposes a storytelling cycle
 >
 - [https://en.wikipedia.org/wiki/Storytelling](https://en.wikipedia.org/wiki/Storytelling){target="_blank" rel="noopener"}
 
-> "...the recent decades of this century have seen a tremendous development of diverse theories of narrative, so many and so diverse that it makes the mind ache to think of them all."
->
-- Miller, J.H., 1990. "Narrative". In Lentricchia, F. & McLaughlin, T. eds., Critical Terms for Literary Study. Chicago, Illinois: The University of Chicago Press, pp. 66- 79.
-
 In 2018, the Association for Research in Digital Interactive Narratives (ARDIN) was formed. [ARDIN](https://ardin.online/){target="_blank" rel="noopener"} supports research into Interactive Digital Narratives (IDN). **ICIDS (International Conference on Interactive Digital Storytelling)** is the main academic conference of ARDIN
 
