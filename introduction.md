@@ -39,7 +39,7 @@ Digital Storytelling in Heritage Interpretation
 ![Storytelling domains](fig/Fig_01_self_produced_graph.png){alt='' width=450 height=450}
 
 ## Storytelling as human condition
-As humans we communicate with stories. When we use the a narrative structure to communicate concepts we connect with our audience on multiple levels such as visually, by hear, intimate an personal level. The audience at this stage can stricly bond with the caracthers, the objects or the environments of the story.
+As humans we communicate with stories. When we use the a narrative structure to communicate concepts we connect with our audience on multiple levels such as visually, by hear, intimate and on a personal level. The audience at this stage can stricly bond with the caracthers, the objects or the environments of the story.
 
 > "Humans are natural storytellers. It has been THE FORM of passing on knowledge from generation to generation. Storytelling existed in some shape or form in all civilizations across time..."
 >
