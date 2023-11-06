@@ -87,7 +87,7 @@ The user can make the choice on how to proceed.
 >
 - *Comment by Nicolas A. on Twitter*
 
-![ Black Mirror Logo by Mark Simonson and Céréales Killer from Wikimedia Commons](fig/Fig_19_Black_Mirror_logo.png){alt='black mirror'}
+![Black Mirror Logo by Mark Simonson and Céréales Killer from Wikimedia Commons](fig/Fig_19_Black_Mirror_logo.png){alt='black mirror'}
 
 
 ## Different examples of Non-Linear narratives (Interactive)
